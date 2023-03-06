@@ -1,10 +1,9 @@
 # Only Flags 🏴‍☠️
 A repo of all the flag emojis for every country in the world mapped to ISO codes, regions, and continent.
 
-
-
-| **Afghanistan**                      | **🇦🇫** | **AFG** | **Southern Asia**         | **Asia**      |
+| Country                              | Flag Emoji | ISO Code  | Region  | Continent |
 |--------------------------------------|----------|---------|---------------------------|---------------|
+| **Afghanistan**                      | **🇦🇫** | **AFG** | **Southern Asia**         | **Asia**      |
 | Åland Islands                        | 🇦🇽     | ALA     | Northern Europe           | Europe        |
 | Albania                              | 🇦🇱     | ALB     | Southern Europe           | Europe        |
 | Algeria                              | 🇩🇿     | DZA     | Northern Africa           | Africa        |
