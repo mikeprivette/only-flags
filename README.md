@@ -1,4 +1,4 @@
-# Only Flags 🏴‍☠️
+# Only Flags 🏁
 A repo of all the flag emojis for every country in the world mapped to ISO codes, regions, and continent.
 
 | **Country**                          | **Flag Emoji** | **ISO Code**  | **Region**  | **Continent** |
