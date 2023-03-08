@@ -70,6 +70,7 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Ecuador                              | 🇪🇨     | ECU     | South America             | South America |
 | Egypt                                | 🇪🇬     | EGY     | Northern Africa           | Africa        |
 | El Salvador                          | 🇸🇻     | SLV     | Central America           | North America |
+| England                              | 🇬🇧     | GB-ENG  | Northern Europe           | Europe        |
 | Equatorial Guinea                    | 🇬🇶     | GNQ     | Middle Africa             | Africa        |
 | Eritrea                              | 🇪🇷     | ERI     | Eastern Africa            | Africa        |
 | Estonia                              | 🇪🇪     | EST     | Northern Europe           | Europe        |
@@ -163,6 +164,7 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Nigeria                              | 🇳🇬     | NGA     | Western Africa            | Africa        |
 | Niue                                 | 🇳🇺     | NIU     | Polynesia                 | Oceania       |
 | Norfolk Island                       | 🇳🇫     | NFK     | Australia and New Zealand | Oceania       |
+| Northern Ireland                     | 🇬🇧     | GB-NIR  | Northern Europe           | Europe        |
 | Northern Mariana Islands             | 🇲🇵     | MNP     | Micronesia                | Oceania       |
 | Norway                               | 🇳🇴     | NOR     | Northern Europe           | Europe        |
 | Oman                                 | 🇴🇲     | OMN     | Western Asia              | Asia          |
@@ -193,6 +195,7 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | San Marino                           | 🇸🇲     | SMR     | Southern Europe           | Europe        |
 | Sao Tome and Principe                | 🇸🇹     | STP     | Middle Africa             | Africa        |
 | Saudi Arabia                         | 🇸🇦     | SAU     | Western Asia              | Asia          |
+| Scotland                             | 🏴󠁧󠁢󠁳󠁣󠁴󠁿     | GB-SCT  | Northern Europe           | Europe        |
 | Senegal                              | 🇸🇳     | SEN     | Western Africa            | Africa        |
 | Serbia                               | 🇷🇸     | SRB     | Southern Europe           | Europe        |
 | Seychelles                           | 🇸🇨     | SYC     | Eastern Africa            | Africa        |
@@ -242,6 +245,7 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Vanuatu                              | 🇻🇺     | VUT     | Melanesia                 | Oceania       |
 | Venezuela                            | 🇻🇪     | VEN     | South America             | South America |
 | Viet Nam                             | 🇻🇳     | VNM     | South\-eastern Asia       | Asia          |
+| Wales                                | 🏴󠁧󠁢󠁷󠁬󠁳󠁿     | GB-WLS  | Northern Europe           | Europe        |
 | Wallis and Futuna Islands            | 🇼🇫     | WLF     | Polynesia                 | Oceania       |
 | Western Sahara                       | 🇪🇭     | ESH     | Northern Africa           | Africa        |
 | Yemen                                | 🇾🇪     | YEM     | Western Asia              | Asia          |
