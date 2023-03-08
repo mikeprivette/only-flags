@@ -5,4 +5,4 @@ That's awesome! Here are some guidelines that will help keep this usable.
 
 - To add to this list: Submit a pull request
 - To remove from the list: Open an issue
-- Countries should be sorted alphabetically.
+- Countries should be sorted alphabetically
