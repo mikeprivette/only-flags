@@ -1,4 +1,7 @@
 # Only Flags 🏁
+
+![Only Flags](https://raw.githubusercontent.com/mikeprivette/only-flags/main/OnlyFlags.png) 
+
 A repo of all the flag emojis for every country in the world mapped to ISO codes, regions, and continent.
 
 | **Country**                          | **Flag Emoji** | **ISO Code**  | **Region**  | **Continent** |
