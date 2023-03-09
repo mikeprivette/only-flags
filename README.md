@@ -41,40 +41,41 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Bulgaria                             | 🇧🇬     | BGR     | Eastern Europe            | Europe        |.bg|
 | Burkina Faso                         | 🇧🇫     | BFA     | Western Africa            | Africa        |.bf|
 | Burundi                              | 🇧🇮     | BDI     | Eastern Africa            | Africa        |.bi|
-| Cabo Verde                           | 🇨🇻     | CPV     | Western Africa            | Africa        |.|
-| Cambodia                             | 🇰🇭     | KHM     | South\-eastern Asia       | Asia          |.|
-| Cameroon                             | 🇨🇲     | CMR     | Middle Africa             | Africa        |.|
-| Canada                               | 🇨🇦     | CAN     | Northern America          | North America |.|
-| Cayman Islands                       | 🇰🇾     | CYM     | Caribbean                 | North America |.|
-| Central African Republic             | 🇨🇫     | CAF     | Middle Africa             | Africa        |.|
-| Chad                                 | 🇹🇩     | TCD     | Middle Africa             | Africa        |.|
-| Chile                                | 🇨🇱     | CHL     | South America             | South America |.|
-| China                                | 🇨🇳     | CHN     | Eastern Asia              | Asia          |.|
-| Christmas Island                     | 🇨🇽     | CXR     | Australia and New Zealand | Oceania       |.|
-| Cocos \(Keeling\) Islands            | 🇨🇨     | CCK     | Australia and New Zealand | Oceania       |.|
-| Colombia                             | 🇨🇴     | COL     | South America             | South America |.|
-| Comoros                              | 🇰🇲     | COM     | Eastern Africa            | Africa        |.|
-| Congo                                | 🇨🇩     | COG     | Middle Africa             | Africa        |.|
-| Cook Islands                         | 🇨🇰     | COK     | Polynesia                 | Oceania       |.|
-| Costa Rica                           | 🇨🇷     | CRI     | Central America           | North America |.|
-| Côte D'Ivoire                        | 🇨🇮     | CIV     | Western Africa            | Africa        |.|
-| Croatia                              | 🇭🇷     | HRV     | Southern Europe           | Europe        |.|
-| Cuba                                 | 🇨🇺     | CUB     | Caribbean                 | North America |.|
-| Curaçao                              | 🇨🇼     | CUW     | Caribbean                 | North America |.|
-| Cyprus                               | 🇨🇾     | CYP     | Western Asia              | Asia          |.|
-| Czechia                              | 🇨🇿     | CZE     | Eastern Europe            | Europe        |.|
-| Denmark                              | 🇩🇰     | DNK     | Northern Europe           | Europe        |.|
-| Djibouti                             | 🇩🇯     | DJI     | Eastern Africa            | Africa        |.|
-| Dominica                             | 🇩🇲     | DMA     | Caribbean                 | North America |.|
-| Dominican Republic                   | 🇩🇴     | DOM     | Caribbean                 | North America |.|
-| Ecuador                              | 🇪🇨     | ECU     | South America             | South America |.|
-| Egypt                                | 🇪🇬     | EGY     | Northern Africa           | Africa        |.|
-| El Salvador                          | 🇸🇻     | SLV     | Central America           | North America |.|
-| England                              | 🇬🇧     | GB-ENG  | Northern Europe           | Europe        |.|
-| Equatorial Guinea                    | 🇬🇶     | GNQ     | Middle Africa             | Africa        |.|
-| Eritrea                              | 🇪🇷     | ERI     | Eastern Africa            | Africa        |.|
-| Estonia                              | 🇪🇪     | EST     | Northern Europe           | Europe        |.|
-| Ethiopia                             | 🇪🇹     | ETH     | Eastern Africa            | Africa        |.|
+| Cabo Verde                           | 🇨🇻     | CPV     | Western Africa            | Africa        |.cv|
+| Cambodia                             | 🇰🇭     | KHM     | South\-eastern Asia       | Asia          |.kh|
+| Cameroon                             | 🇨🇲     | CMR     | Middle Africa             | Africa        |.cm|
+| Canada                               | 🇨🇦     | CAN     | Northern America          | North America |.ca|
+| Cayman Islands                       | 🇰🇾     | CYM     | Caribbean                 | North America |.ky|
+| Central African Republic             | 🇨🇫     | CAF     | Middle Africa             | Africa        |.cf|
+| Chad                                 | 🇹🇩     | TCD     | Middle Africa             | Africa        |.td|
+| Chile                                | 🇨🇱     | CHL     | South America             | South America |.cl|
+| China                                | 🇨🇳     | CHN     | Eastern Asia              | Asia          |.cn|
+| Christmas Island                     | 🇨🇽     | CXR     | Australia and New Zealand | Oceania       |.cx|
+| Cocos \(Keeling\) Islands            | 🇨🇨     | CCK     | Australia and New Zealand | Oceania       |.cc|
+| Colombia                             | 🇨🇴     | COL     | South America             | South America |.co|
+| Comoros                              | 🇰🇲     | COM     | Eastern Africa            | Africa        |.km|
+| Congo, Democratic Republic of the    | 🇨🇩     | COD     | Middle Africa             | Africa        |.cd|
+| Congo, Republic of the               | 🇨🇬     | COG     | Middle Africa             | Africa        |.cg|
+| Cook Islands                         | 🇨🇰     | COK     | Polynesia                 | Oceania       |.ck|
+| Costa Rica                           | 🇨🇷     | CRI     | Central America           | North America |.cr|
+| Côte D'Ivoire                        | 🇨🇮     | CIV     | Western Africa            | Africa        |.ci|
+| Croatia                              | 🇭🇷     | HRV     | Southern Europe           | Europe        |.hr|
+| Cuba                                 | 🇨🇺     | CUB     | Caribbean                 | North America |.cu|
+| Curaçao                              | 🇨🇼     | CUW     | Caribbean                 | North America |.cw|
+| Cyprus                               | 🇨🇾     | CYP     | Western Asia              | Asia          |.cy|
+| Czechia                              | 🇨🇿     | CZE     | Eastern Europe            | Europe        |.cz|
+| Denmark                              | 🇩🇰     | DNK     | Northern Europe           | Europe        |.dk|
+| Djibouti                             | 🇩🇯     | DJI     | Eastern Africa            | Africa        |.dj|
+| Dominica                             | 🇩🇲     | DMA     | Caribbean                 | North America |.dm|
+| Dominican Republic                   | 🇩🇴     | DOM     | Caribbean                 | North America |.do|
+| Ecuador                              | 🇪🇨     | ECU     | South America             | South America |.ec|
+| Egypt                                | 🇪🇬     | EGY     | Northern Africa           | Africa        |.eg|
+| El Salvador                          | 🇸🇻     | SLV     | Central America           | North America |.sv|
+| England                              | 🇬🇧     | GB-ENG  | Northern Europe           | Europe        |.uk|
+| Equatorial Guinea                    | 🇬🇶     | GNQ     | Middle Africa             | Africa        |.gq|
+| Eritrea                              | 🇪🇷     | ERI     | Eastern Africa            | Africa        |.er|
+| Estonia                              | 🇪🇪     | EST     | Northern Europe           | Europe        |.ee|
+| Ethiopia                             | 🇪🇹     | ETH     | Eastern Africa            | Africa        |.et|
 | Falkland Islands \(Malvinas\)        | 🇫🇰     | FLK     | South America             | South America |.|
 | Faroe Islands                        | 🇫🇴     | FRO     | Northern Europe           | Europe        |.|
 | Fiji                                 | 🇫🇯     | FJI     | Melanesia                 | Oceania       |.|
