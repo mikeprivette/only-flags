@@ -33,7 +33,7 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Bonaire, Sint Eustatius and Saba     | 🇧🇶     | BES     | Caribbean                 | North America |
 | Bosnia and Herzegovina               | 🇧🇦     | BIH     | Southern Europe           | Europe        |
 | Botswana                             | 🇧🇼     | BWA     | Southern Africa           | Africa        |
-| Bouvet Island                        | 🇧🇻     | BVT     | South America             | South America |
+| Bouvet Island (Territory of Norway)  | 🇧🇻     | BVT     | South Atlantic Ocean      | Antarctic Region  |
 | Brazil                               | 🇧🇷     | BRA     | South America             | South America |
 | British Indian Ocean Territory       | 🇮🇴     | IOT     | Eastern Africa            | Africa        |
 | British Virgin Islands               | 🇻🇬     | VGB     | Caribbean                 | North America |
