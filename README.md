@@ -1,46 +1,46 @@
 # Only Flags 🏁
 A repo of all the flag emojis for every country in the world mapped to ISO codes, regions, and continent.
 
-| **Country**                          | **Flag Emoji** | **ISO Code**  | **Region**  | **Continent** |
-|--------------------------------------|----------|---------|---------------------------|---------------|
-| Afghanistan                          | 🇦🇫     | AFG     | Southern Asia             | Asia          |
-| Åland Islands                        | 🇦🇽     | ALA     | Northern Europe           | Europe        |
-| Albania                              | 🇦🇱     | ALB     | Southern Europe           | Europe        |
-| Algeria                              | 🇩🇿     | DZA     | Northern Africa           | Africa        |
-| American Samoa                       | 🇦🇸     | ASM     | Polynesia                 | Oceania       |
-| Andorra                              | 🇦🇩     | AND     | Southern Europe           | Europe        |
-| Angola                               | 🇦🇴     | AGO     | Middle Africa             | Africa        |
-| Anguilla                             | 🇦🇮     | AIA     | Caribbean                 | North America |
-| Antarctica                           | 🇦🇶     | ATA     | Antarctica                | Antarctica    |
-| Antigua and Barbuda                  | 🇦🇬     | ATG     | Caribbean                 | North America |
-| Argentina                            | 🇦🇷     | ARG     | South America             | South America |
-| Armenia                              | 🇦🇲     | ARM     | Western Asia              | Asia          |
-| Aruba                                | 🇦🇼     | ABW     | Caribbean                 | North America |
-| Australia                            | 🇦🇺     | AUS     | Australia and New Zealand | Oceania       |
-| Austria                              | 🇦🇹     | AUT     | Western Europe            | Europe        |
-| Azerbaijan                           | 🇦🇿     | AZE     | Western Asia              | Asia          |
-| Bahamas                              | 🇧🇸     | BHS     | Caribbean                 | North America |
-| Bahrain                              | 🇧🇭     | BHR     | Western Asia              | Asia          |
-| Bangladesh                           | 🇧🇩     | BGD     | Southern Asia             | Asia          |
-| Barbados                             | 🇧🇧     | BRB     | Caribbean                 | North America |
-| Belarus                              | 🇧🇾     | BLR     | Eastern Europe            | Europe        |
-| Belgium                              | 🇧🇪     | BEL     | Western Europe            | Europe        |
-| Belize                               | 🇧🇿     | BLZ     | Central America           | North America |
-| Benin                                | 🇧🇯     | BEN     | Western Africa            | Africa        |
-| Bermuda                              | 🇧🇲     | BMU     | Northern America          | North America |
-| Bhutan                               | 🇧🇹     | BTN     | Southern Asia             | Asia          |
-| Bolivia                              | 🇧🇴     | BOL     | South America             | South America |
-| Bonaire, Sint Eustatius and Saba     | 🇧🇶     | BES     | Caribbean                 | North America |
-| Bosnia and Herzegovina               | 🇧🇦     | BIH     | Southern Europe           | Europe        |
-| Botswana                             | 🇧🇼     | BWA     | Southern Africa           | Africa        |
-| Bouvet Island                        | 🇧🇻     | BVT     | South America             | South America |
-| Brazil                               | 🇧🇷     | BRA     | South America             | South America |
-| British Indian Ocean Territory       | 🇮🇴     | IOT     | Eastern Africa            | Africa        |
-| British Virgin Islands               | 🇻🇬     | VGB     | Caribbean                 | North America |
-| Brunei Darussalam                    | 🇧🇳     | BRN     | South\-eastern Asia       | Asia          |
-| Bulgaria                             | 🇧🇬     | BGR     | Eastern Europe            | Europe        |
-| Burkina Faso                         | 🇧🇫     | BFA     | Western Africa            | Africa        |
-| Burundi                              | 🇧🇮     | BDI     | Eastern Africa            | Africa        |
+| **Country**                          | **Flag Emoji** | **ISO Code**  | **Region**  | **Continent** | **ccTLD** |
+|--------------------------------------|----------|---------|---------------------------|---------------|-----------|
+| Afghanistan                          | 🇦🇫     | AFG     | Southern Asia             | Asia          |.af|
+| Åland Islands                        | 🇦🇽     | ALA     | Northern Europe           | Europe        |.ax|
+| Albania                              | 🇦🇱     | ALB     | Southern Europe           | Europe        |.al|
+| Algeria                              | 🇩🇿     | DZA     | Northern Africa           | Africa        |.dz|
+| American Samoa                       | 🇦🇸     | ASM     | Polynesia                 | Oceania       |.as|
+| Andorra                              | 🇦🇩     | AND     | Southern Europe           | Europe        |.ad|
+| Angola                               | 🇦🇴     | AGO     | Middle Africa             | Africa        |.ao|
+| Anguilla                             | 🇦🇮     | AIA     | Caribbean                 | North America |.ai|
+| Antarctica                           | 🇦🇶     | ATA     | Antarctica                | Antarctica    |.aq|
+| Antigua and Barbuda                  | 🇦🇬     | ATG     | Caribbean                 | North America |.ag|
+| Argentina                            | 🇦🇷     | ARG     | South America             | South America |.ar|
+| Armenia                              | 🇦🇲     | ARM     | Western Asia              | Asia          |.am|
+| Aruba                                | 🇦🇼     | ABW     | Caribbean                 | North America |.aw|
+| Australia                            | 🇦🇺     | AUS     | Australia and New Zealand | Oceania       |.au|
+| Austria                              | 🇦🇹     | AUT     | Western Europe            | Europe        |.at|
+| Azerbaijan                           | 🇦🇿     | AZE     | Western Asia              | Asia          |.az|
+| Bahamas                              | 🇧🇸     | BHS     | Caribbean                 | North America |.bs|
+| Bahrain                              | 🇧🇭     | BHR     | Western Asia              | Asia          |.bh|
+| Bangladesh                           | 🇧🇩     | BGD     | Southern Asia             | Asia          |.bd|
+| Barbados                             | 🇧🇧     | BRB     | Caribbean                 | North America |.bb|
+| Belarus                              | 🇧🇾     | BLR     | Eastern Europe            | Europe        |.by|
+| Belgium                              | 🇧🇪     | BEL     | Western Europe            | Europe        |.be|
+| Belize                               | 🇧🇿     | BLZ     | Central America           | North America |.bz|
+| Benin                                | 🇧🇯     | BEN     | Western Africa            | Africa        |.bj|
+| Bermuda                              | 🇧🇲     | BMU     | Northern America          | North America |.bm|
+| Bhutan                               | 🇧🇹     | BTN     | Southern Asia             | Asia          |.bt|
+| Bolivia                              | 🇧🇴     | BOL     | South America             | South America |.bo|
+| Bonaire, Sint Eustatius and Saba     | 🇧🇶     | BES     | Caribbean                 | North America |.bq|
+| Bosnia and Herzegovina               | 🇧🇦     | BIH     | Southern Europe           | Europe        |.ba|
+| Botswana                             | 🇧🇼     | BWA     | Southern Africa           | Africa        |.bw|
+| Bouvet Island                        | 🇧🇻     | BVT     | South America             | South America |.bv|
+| Brazil                               | 🇧🇷     | BRA     | South America             | South America |.br|
+| British Indian Ocean Territory       | 🇮🇴     | IOT     | Eastern Africa            | Africa        |.io|
+| British Virgin Islands               | 🇻🇬     | VGB     | Caribbean                 | North America |.vg|
+| Brunei Darussalam                    | 🇧🇳     | BRN     | South\-eastern Asia       | Asia          |.bn|
+| Bulgaria                             | 🇧🇬     | BGR     | Eastern Europe            | Europe        |.bg|
+| Burkina Faso                         | 🇧🇫     | BFA     | Western Africa            | Africa        |.bf|
+| Burundi                              | 🇧🇮     | BDI     | Eastern Africa            | Africa        |.bi|
 | Cabo Verde                           | 🇨🇻     | CPV     | Western Africa            | Africa        |
 | Cambodia                             | 🇰🇭     | KHM     | South\-eastern Asia       | Asia          |
 | Cameroon                             | 🇨🇲     | CMR     | Middle Africa             | Africa        |
