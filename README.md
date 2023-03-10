@@ -1,8 +1,17 @@
 # Only Flags 🏁
 
-![Only Flags](https://raw.githubusercontent.com/mikeprivette/only-flags/main/OnlyFlags.png) 
+![Only Flags](https://raw.githubusercontent.com/mikeprivette/only-flags/main/OnlyFlags.png)
 
-A repo of all the flag emojis for every country in the world mapped to ISO codes, regions, and continent.
+## Why do this?
+
+Every week as a part of my [newsletter](https://newsletter.returnonsecurity.com/), I track where all the cybersecurity funding and M&A events are happening around the world. Outside of the deal terms, I collect a whole host of data on each company involved in the transaction, including city, state, country, and contient.
+
+I track all of this in a database I’ve made on Airtable so I can slice and dice things easier, and somewhere along the way I decided to start using flag emojis. Many country flags were easy to remember, but with 240+ countries, it was easy to miss a few. 🥴
+
+So I decided to make a complete resource of all the countries, continents, regions, ISO Codes, CCTLDs, and emoji flags to share!
+
+## The list
+
 
 | **Country**                          | **Flag Emoji** | **ISO Code**  | **Region**  | **Continent** | **ccTLD** |
 |--------------------------------------|----------|---------|---------------------------|---------------|-----------|
