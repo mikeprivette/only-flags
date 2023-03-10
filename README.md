@@ -123,38 +123,37 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Kiribati                             | 🇰🇮     | KIR     | Micronesia                | Oceania       |.ki|
 | Kuwait                               | 🇰🇼     | KWT     | Western Asia              | Asia          |.kw|
 | Kyrgyzstan                           | 🇰🇬     | KGZ     | Central Asia              | Asia          |.kg|
-| Lao People's Democratic Republic     | 🇱🇦     | LAO     | South\-eastern Asia       | Asia          |.|
-| Latvia                               | 🇱🇻     | LVA     | Northern Europe           | Europe        |.|
-| Lebanon                              | 🇱🇧     | LBN     | Western Asia              | Asia          |.|
-| Lesotho                              | 🇱🇸     | LSO     | Southern Africa           | Africa        |.|
-| Liberia                              | 🇱🇷     | LBR     | Western Africa            | Africa        |.|
-| Libya                                | 🇱🇾     | LBY     | Northern Africa           | Africa        |.|
-| Liechtenstein                        | 🇱🇮     | LIE     | Western Europe            | Europe        |.|
-| Lithuania                            | 🇱🇹     | LTU     | Northern Europe           | Europe        |.|
-| Luxembourg                           | 🇱🇺     | LUX     | Western Europe            | Europe        |.|
-| Macao                                | 🇲🇴     | MAC     | Eastern Asia              | Asia          |.|
-| Macedonia                            | 🇲🇰     | MKD     | Southern Europe           | Europe        |.|
-| Madagascar                           | 🇲🇬     | MDG     | Eastern Africa            | Africa        |.|
-| Malawi                               | 🇲🇼     | MWI     | Eastern Africa            | Africa        |.|
-| Malaysia                             | 🇲🇾     | MYS     | South\-eastern Asia       | Asia          |.|
-| Maldives                             | 🇲🇻     | MDV     | Southern Asia             | Asia          |.|
-| Mali                                 | 🇲🇱     | MLI     | Western Africa            | Africa        |.|
-| Malta                                | 🇲🇹     | MLT     | Southern Europe           | Europe        |.|
-| Marshall Islands                     | 🇲🇭     | MHL     | Micronesia                | Oceania       |.|
-| Martinique                           | 🇲🇶     | MTQ     | Caribbean                 | North America |.|
-| Mauritania                           | 🇲🇷     | MRT     | Western Africa            | Africa        |.|
-| Mauritius                            | 🇲🇺     | MUS     | Eastern Africa            | Africa        |.|
-| Mayotte                              | 🇾🇹     | MYT     | Eastern Africa            | Africa        |.|
-| Mexico                               | 🇲🇽     | MEX     | Central America           | North America |.|
-| Micronesia                           | 🇫🇲     | FSM     | Micronesia                | Oceania       |.|
-| Moldova                              | 🇲🇩     | MDA     | Eastern Europe            | Europe        |.|
-| Monaco                               | 🇲🇨     | MCO     | Western Europe            | Europe        |.|
-| Mongolia                             | 🇲🇳     | MNG     | Eastern Asia              | Asia          |.|
-| Montenegro                           | 🇲🇪     | MNE     | Southern Europe           | Europe        |.|
-| Montserrat                           | 🇲🇸     | MSR     | Caribbean                 | North America |.|
-| Morocco                              | 🇲🇦     | MAR     | Northern Africa           | Africa        |.|
-| Mozambique                           | 🇲🇿     | MOZ     | Eastern Africa            | Africa        |.|
-| Myanmar                              | 🇲🇲     | MMR     | South\-eastern Asia       | Asia          |.|
+| Lao People's Democratic Republic     | 🇱🇦     | LAO     | South\-eastern Asia       | Asia          |.la|
+| Latvia                               | 🇱🇻     | LVA     | Northern Europe           | Europe        |.lv|
+| Lebanon                              | 🇱🇧     | LBN     | Western Asia              | Asia          |.lb|
+| Lesotho                              | 🇱🇸     | LSO     | Southern Africa           | Africa        |.ls|
+| Liberia                              | 🇱🇷     | LBR     | Western Africa            | Africa        |.lr|
+| Libya                                | 🇱🇾     | LBY     | Northern Africa           | Africa        |.ly|
+| Liechtenstein                        | 🇱🇮     | LIE     | Western Europe            | Europe        |.li|
+| Lithuania                            | 🇱🇹     | LTU     | Northern Europe           | Europe        |.lt|
+| Luxembourg                           | 🇱🇺     | LUX     | Western Europe            | Europe        |.lu|
+| Macao                                | 🇲🇴     | MAC     | Eastern Asia              | Asia          |.mo|
+| Madagascar                           | 🇲🇬     | MDG     | Eastern Africa            | Africa        |.mg|
+| Malawi                               | 🇲🇼     | MWI     | Eastern Africa            | Africa        |.mw|
+| Malaysia                             | 🇲🇾     | MYS     | South\-eastern Asia       | Asia          |.my|
+| Maldives                             | 🇲🇻     | MDV     | Southern Asia             | Asia          |.mv|
+| Mali                                 | 🇲🇱     | MLI     | Western Africa            | Africa        |.ml|
+| Malta                                | 🇲🇹     | MLT     | Southern Europe           | Europe        |.mt|
+| Marshall Islands                     | 🇲🇭     | MHL     | Micronesia                | Oceania       |.mh|
+| Martinique                           | 🇲🇶     | MTQ     | Caribbean                 | North America |.mq|
+| Mauritania                           | 🇲🇷     | MRT     | Western Africa            | Africa        |.mr|
+| Mauritius                            | 🇲🇺     | MUS     | Eastern Africa            | Africa        |.mu|
+| Mayotte                              | 🇾🇹     | MYT     | Eastern Africa            | Africa        |.yt|
+| Mexico                               | 🇲🇽     | MEX     | Central America           | North America |.mx|
+| Micronesia (Federated States of)     | 🇫🇲     | FSM     | Micronesia                | Oceania       |.fm|
+| Moldova                              | 🇲🇩     | MDA     | Eastern Europe            | Europe        |.md|
+| Monaco                               | 🇲🇨     | MCO     | Western Europe            | Europe        |.mc|
+| Mongolia                             | 🇲🇳     | MNG     | Eastern Asia              | Asia          |.mn|
+| Montenegro                           | 🇲🇪     | MNE     | Southern Europe           | Europe        |.me|
+| Montserrat                           | 🇲🇸     | MSR     | Caribbean                 | North America |.ms|
+| Morocco                              | 🇲🇦     | MAR     | Northern Africa           | Africa        |.ma|
+| Mozambique                           | 🇲🇿     | MOZ     | Eastern Africa            | Africa        |.mz|
+| Myanmar                              | 🇲🇲     | MMR     | South\-eastern Asia       | Asia          |.mm|
 | Namibia                              | 🇳🇦     | NAM     | Southern Africa           | Africa        |.|
 | Nauru                                | 🇳🇷     | NRU     | Micronesia                | Oceania       |.|
 | Nepal                                | 🇳🇵     | NPL     | Southern Asia             | Asia          |.|
@@ -167,6 +166,7 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Norfolk Island                       | 🇳🇫     | NFK     | Australia and New Zealand | Oceania       |.|
 | Northern Ireland                     | 🇬🇧     | GB-NIR  | Northern Europe           | Europe        |.|
 | Northern Mariana Islands             | 🇲🇵     | MNP     | Micronesia                | Oceania       |.|
+| North Macedonia                      | 🇲🇰     | MKD     | Southern Europe           | Europe        |.mk|
 | Norway                               | 🇳🇴     | NOR     | Northern Europe           | Europe        |.|
 | Oman                                 | 🇴🇲     | OMN     | Western Asia              | Asia          |.|
 | Pakistan                             | 🇵🇰     | PAK     | Southern Asia             | Asia          |.|
