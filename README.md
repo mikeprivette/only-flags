@@ -33,7 +33,7 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Bonaire, Sint Eustatius and Saba     | 🇧🇶     | BES     | Caribbean                 | North America |.bq|
 | Bosnia and Herzegovina               | 🇧🇦     | BIH     | Southern Europe           | Europe        |.ba|
 | Botswana                             | 🇧🇼     | BWA     | Southern Africa           | Africa        |.bw|
-| Bouvet Island                        | 🇧🇻     | BVT     | South America             | South America |.bv|
+| Bouvet Island                        | 🇧🇻     | BVT     | South America             | South America |.no|
 | Brazil                               | 🇧🇷     | BRA     | South America             | South America |.br|
 | British Indian Ocean Territory       | 🇮🇴     | IOT     | Eastern Africa            | Africa        |.io|
 | British Virgin Islands               | 🇻🇬     | VGB     | Caribbean                 | North America |.vg|
@@ -102,6 +102,7 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Guyana                               | 🇬🇾     | GUY     | South America             | South America |.gy|
 | Haiti                                | 🇭🇹     | HTI     | Caribbean                 | North America |.ht|
 | Heard Island and McDonald Islands    | 🇭🇲     | HMD     | Australia and New Zealand | Oceania       |.hm|
+| Holy See (the)                       | 🇻🇦     | VAT     | Southern Europe           | Europe        |.va|
 | Honduras                             | 🇭🇳     | HND     | Central America           | South America |.hn|
 | Hong Kong                            | 🇭🇰     | HKG     | Eastern Asia              | Asia          |.hk|
 | Hungary                              | 🇭🇺     | HUN     | Eastern Europe            | Europe        |.hu|
@@ -189,68 +190,68 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Romania                              | 🇷🇴     | ROU     | Eastern Europe            | Europe        |.ro|
 | Russia                               | 🇷🇺     | RUS     | Eastern Europe            | Europe        |.ru|
 | Rwanda                               | 🇷🇼     | RWA     | Eastern Africa            | Africa        |.rw|
-| Saint Barthélemy                     | 🇧🇱     | BLM     | Caribbean                 | North America |.|
-| Saint Helena                         | 🇸🇭     | SHN     | Western Africa            | Africa        |.|
-| Saint Kitts and Nevis                | 🇰🇳     | KNA     | Caribbean                 | North America |.|
-| Saint Lucia                          | 🇱🇨     | LCA     | Caribbean                 | North America |.|
-| Saint Martin \(French Part\)         | 🇲🇫     | MAF     | Caribbean                 | North America |.|
-| Saint Pierre and Miquelon            | 🇵🇲     | SPM     | Northern America          | North America |.|
-| Saint Vincent and the Grenadines     | 🇻🇨     | VCT     | Caribbean                 | North America |.|
-| Samoa                                | 🇼🇸     | WSM     | Polynesia                 | Oceania       |.|
-| San Marino                           | 🇸🇲     | SMR     | Southern Europe           | Europe        |.|
-| Sao Tome and Principe                | 🇸🇹     | STP     | Middle Africa             | Africa        |.|
-| Saudi Arabia                         | 🇸🇦     | SAU     | Western Asia              | Asia          |.|
-| Scotland                             | 🏴󠁧󠁢󠁳󠁣󠁴󠁿     | GB-SCT  | Northern Europe           | Europe        |.|
-| Senegal                              | 🇸🇳     | SEN     | Western Africa            | Africa        |.|
-| Serbia                               | 🇷🇸     | SRB     | Southern Europe           | Europe        |.|
-| Seychelles                           | 🇸🇨     | SYC     | Eastern Africa            | Africa        |.|
-| Sierra Leone                         | 🇸🇱     | SLE     | Western Africa            | Africa        |.|
-| Singapore                            | 🇸🇬     | SGP     | South\-eastern Asia       | Asia          |.|
-| Sint Maarten \(Dutch part\)          | 🇸🇽     | SXM     | Caribbean                 | North America |.|
-| Slovakia                             | 🇸🇰     | SVK     | Eastern Europe            | Europe        |.|
-| Slovenia                             | 🇸🇮     | SVN     | Southern Europe           | Europe        |.|
-| Solomon Islands                      | 🇸🇧     | SLB     | Melanesia                 | Oceania       |.|
-| Somalia                              | 🇸🇴     | SOM     | Eastern Africa            | Africa        |.|
-| South Africa                         | 🇿🇦     | ZAF     | Southern Africa           | Africa        |.|
-| South Georgia                        | 🇬🇸     | SGS     | South America             | South America |.|
-| South Sudan                          | 🇸🇸     | SSD     | Eastern Africa            | Africa        |.|
-| Spain                                | 🇪🇸     | ESP     | Southern Europe           | Europe        |.|
-| Sri Lanka                            | 🇱🇰     | LKA     | Southern Asia             | Asia          |.|
-| Sudan                                | 🇸🇩     | SDN     | Northern Africa           | Africa        |.|
-| Suriname                             | 🇸🇷     | SUR     | South America             | South America |.|
-| Svalbard and Jan Mayen               | 🇸🇯     | SJM     | Northern Europe           | Europe        |.|
-| Sweden                               | 🇸🇪     | SWE     | Northern Europe           | Europe        |.|
-| Switzerland                          | 🇨🇭     | CHE     | Western Europe            | Europe        |.|
-| Syrian Arab Republic                 | 🇸🇾     | SYR     | Western Asia              | Asia          |.|
-| Taiwan                               | 🇹🇼     | TWN     | Western Asia              | Asia          |.|
-| Tajikistan                           | 🇹🇯     | TJK     | Central Asia              | Asia          |.|
-| Tanzania                             | 🇹🇿     | TZA     | Eastern Africa            | Africa        |.|
-| Thailand                             | 🇹🇭     | THA     | South\-eastern Asia       | Asia          |.|
-| Timor\-Leste                         | 🇹🇱     | TLS     | South\-eastern Asia       | Asia          |.|
-| Togo                                 | 🇹🇬     | TGO     | Western Africa            | Africa        |.|
-| Tokelau                              | 🇹🇰     | TKL     | Polynesia                 | Oceania       |.|
-| Tonga                                | 🇹🇴     | TON     | Polynesia                 | Oceania       |.|
-| Trinidad and Tobago                  | 🇹🇹     | TTO     | Caribbean                 | North America |.|
-| Tunisia                              | 🇹🇳     | TUN     | Northern Africa           | Africa        |.|
-| Turkey                               | 🇹🇷     | TUR     | Western Asia              | Asia          |.|
-| Turkmenistan                         | 🇹🇲     | TKM     | Central Asia              | Asia          |.|
-| Turks and Caicos Islands             | 🇹🇨     | TCA     | Caribbean                 | North America |.|
-| Tuvalu                               | 🇹🇻     | TUV     | Polynesia                 | Oceania       |.|
-| U\.S\. Virgin Islands                | 🇻🇮     | VIR     | Caribbean                 | North America |.|
-| Uganda                               | 🇺🇬     | UGA     | Eastern Africa            | Africa        |.|
-| Ukraine                              | 🇺🇦     | UKR     | Eastern Europe            | Europe        |.|
-| United Arab Emirates                 | 🇦🇪     | ARE     | Western Asia              | Asia          |.|
-| United Kingdom                       | 🇬🇧     | GBR     | Northern Europe           | Europe        |.|
-| United States                        | 🇺🇸     | USA     | Northern America          | North America |.|
-| United States Minor Outlying Islands | 🇺🇲     | UMI     | Micronesia                | Oceania       |.|
-| Uruguay                              | 🇺🇾     | URY     | South America             | South America |.|
-| Uzbekistan                           | 🇺🇿     | UZB     | Central Asia              | Asia          |.|
-| Vanuatu                              | 🇻🇺     | VUT     | Melanesia                 | Oceania       |.|
-| Venezuela                            | 🇻🇪     | VEN     | South America             | South America |.|
-| Viet Nam                             | 🇻🇳     | VNM     | South\-eastern Asia       | Asia          |.|
-| Wales                                | 🏴󠁧󠁢󠁷󠁬󠁳󠁿     | GB-WLS  | Northern Europe           | Europe        |.|
-| Wallis and Futuna Islands            | 🇼🇫     | WLF     | Polynesia                 | Oceania       |.|
-| Western Sahara                       | 🇪🇭     | ESH     | Northern Africa           | Africa        |.|
-| Yemen                                | 🇾🇪     | YEM     | Western Asia              | Asia          |.|
-| Zambia                               | 🇿🇲     | ZMB     | Eastern Africa            | Africa        |.|
-| Zimbabwe                             | 🇿🇼     | ZWE     | Eastern Africa            | Africa        |.|
+| Saint Barthélemy                     | 🇧🇱     | BLM     | Caribbean                 | North America |.gp|
+| Saint Helena                         | 🇸🇭     | SHN     | Western Africa            | Africa        |.sh|
+| Saint Kitts and Nevis                | 🇰🇳     | KNA     | Caribbean                 | North America |.kn|
+| Saint Lucia                          | 🇱🇨     | LCA     | Caribbean                 | North America |.lc|
+| Saint Martin \(French Part\)         | 🇲🇫     | MAF     | Caribbean                 | North America |.gp|
+| Saint Pierre and Miquelon            | 🇵🇲     | SPM     | Northern America          | North America |.pm|
+| Saint Vincent and the Grenadines     | 🇻🇨     | VCT     | Caribbean                 | North America |.vc|
+| Samoa                                | 🇼🇸     | WSM     | Polynesia                 | Oceania       |.ws|
+| San Marino                           | 🇸🇲     | SMR     | Southern Europe           | Europe        |.sm|
+| Sao Tome and Principe                | 🇸🇹     | STP     | Middle Africa             | Africa        |.st|
+| Saudi Arabia                         | 🇸🇦     | SAU     | Western Asia              | Asia          |.sa|
+| Scotland                             | 🏴󠁧󠁢󠁳󠁣󠁴󠁿     | GB-SCT  | Northern Europe           | Europe        |.uk|
+| Senegal                              | 🇸🇳     | SEN     | Western Africa            | Africa        |.sn|
+| Serbia                               | 🇷🇸     | SRB     | Southern Europe           | Europe        |.rs|
+| Seychelles                           | 🇸🇨     | SYC     | Eastern Africa            | Africa        |.sc|
+| Sierra Leone                         | 🇸🇱     | SLE     | Western Africa            | Africa        |.sl|
+| Singapore                            | 🇸🇬     | SGP     | South\-eastern Asia       | Asia          |.sg|
+| Sint Maarten \(Dutch part\)          | 🇸🇽     | SXM     | Caribbean                 | North America |.sx|
+| Slovakia                             | 🇸🇰     | SVK     | Eastern Europe            | Europe        |.sk|
+| Slovenia                             | 🇸🇮     | SVN     | Southern Europe           | Europe        |.si|
+| Solomon Islands                      | 🇸🇧     | SLB     | Melanesia                 | Oceania       |.sb|
+| Somalia                              | 🇸🇴     | SOM     | Eastern Africa            | Africa        |.so|
+| South Africa                         | 🇿🇦     | ZAF     | Southern Africa           | Africa        |.za|
+| South Georgia                        | 🇬🇸     | SGS     | South America             | South America |.gs|
+| South Sudan                          | 🇸🇸     | SSD     | Eastern Africa            | Africa        |.ss|
+| Spain                                | 🇪🇸     | ESP     | Southern Europe           | Europe        |.es|
+| Sri Lanka                            | 🇱🇰     | LKA     | Southern Asia             | Asia          |.lk|
+| Sudan                                | 🇸🇩     | SDN     | Northern Africa           | Africa        |.sd|
+| Suriname                             | 🇸🇷     | SUR     | South America             | South America |.sr|
+| Svalbard and Jan Mayen               | 🇸🇯     | SJM     | Northern Europe           | Europe        |.no|
+| Sweden                               | 🇸🇪     | SWE     | Northern Europe           | Europe        |.se|
+| Switzerland                          | 🇨🇭     | CHE     | Western Europe            | Europe        |.ch|
+| Syrian Arab Republic                 | 🇸🇾     | SYR     | Western Asia              | Asia          |.sy|
+| Taiwan                               | 🇹🇼     | TWN     | Eastern Asia              | Asia          |.tw|
+| Tajikistan                           | 🇹🇯     | TJK     | Central Asia              | Asia          |.tj|
+| Tanzania                             | 🇹🇿     | TZA     | Eastern Africa            | Africa        |.tz|
+| Thailand                             | 🇹🇭     | THA     | South\-eastern Asia       | Asia          |.th|
+| Timor\-Leste                         | 🇹🇱     | TLS     | South\-eastern Asia       | Asia          |.tl|
+| Togo                                 | 🇹🇬     | TGO     | Western Africa            | Africa        |.tg|
+| Tokelau                              | 🇹🇰     | TKL     | Polynesia                 | Oceania       |.tk|
+| Tonga                                | 🇹🇴     | TON     | Polynesia                 | Oceania       |.to|
+| Trinidad and Tobago                  | 🇹🇹     | TTO     | Caribbean                 | North America |.tt|
+| Tunisia                              | 🇹🇳     | TUN     | Northern Africa           | Africa        |.tn|
+| Turkey                               | 🇹🇷     | TUR     | Western Asia              | Asia          |.tr|
+| Turkmenistan                         | 🇹🇲     | TKM     | Central Asia              | Asia          |.tm|
+| Turks and Caicos Islands             | 🇹🇨     | TCA     | Caribbean                 | North America |.tc|
+| Tuvalu                               | 🇹🇻     | TUV     | Polynesia                 | Oceania       |.tv|
+| U\.S\. Virgin Islands                | 🇻🇮     | VIR     | Caribbean                 | North America |.vi|
+| Uganda                               | 🇺🇬     | UGA     | Eastern Africa            | Africa        |.ug|
+| Ukraine                              | 🇺🇦     | UKR     | Eastern Europe            | Europe        |.ua|
+| United Arab Emirates                 | 🇦🇪     | ARE     | Western Asia              | Asia          |.ae|
+| United Kingdom                       | 🇬🇧     | GBR     | Northern Europe           | Europe        |.uk|
+| United States                        | 🇺🇸     | USA     | Northern America          | North America |.us|
+| United States Minor Outlying Islands | 🇺🇲     | UMI     | Micronesia                | Oceania       |.us|
+| Uruguay                              | 🇺🇾     | URY     | South America             | South America |.uy|
+| Uzbekistan                           | 🇺🇿     | UZB     | Central Asia              | Asia          |.uz|
+| Vanuatu                              | 🇻🇺     | VUT     | Melanesia                 | Oceania       |.vu|
+| Venezuela                            | 🇻🇪     | VEN     | South America             | South America |.ve|
+| Viet Nam                             | 🇻🇳     | VNM     | South\-eastern Asia       | Asia          |.vn|
+| Wales                                | 🏴󠁧󠁢󠁷󠁬󠁳󠁿     | GB-WLS  | Northern Europe           | Europe        |.uk|
+| Wallis and Futuna Islands            | 🇼🇫     | WLF     | Polynesia                 | Oceania       |.wf|
+| Western Sahara                       | 🇪🇭     | ESH     | Northern Africa           | Africa        |eh.|
+| Yemen                                | 🇾🇪     | YEM     | Western Asia              | Asia          |.ye|
+| Zambia                               | 🇿🇲     | ZMB     | Eastern Africa            | Africa        |.zm|
+| Zimbabwe                             | 🇿🇼     | ZWE     | Eastern Africa            | Africa        |.zw|
