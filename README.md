@@ -171,23 +171,24 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Northern Ireland                     | 🇬🇧     | GB-NIR  | Northern Europe           | Europe        |.uk|
 | Northern Mariana Islands             | 🇲🇵     | MNP     | Micronesia                | Oceania       |.mp|
 | Norway                               | 🇳🇴     | NOR     | Northern Europe           | Europe        |.no|
-| Oman                                 | 🇴🇲     | OMN     | Western Asia              | Asia          |.|
-| Pakistan                             | 🇵🇰     | PAK     | Southern Asia             | Asia          |.|
-| Palau                                | 🇵🇼     | PLW     | Micronesia                | Oceania       |.|
-| Panama                               | 🇵🇦     | PAN     | Central America           | North America |.|
-| Papua New Guinea                     | 🇵🇬     | PNG     | Melanesia                 | Oceania       |.|
-| Paraguay                             | 🇵🇾     | PRY     | South America             | South America |.|
-| Peru                                 | 🇵🇪     | PER     | South America             | South America |.|
-| Philippines                          | 🇵🇭     | PHL     | South\-eastern Asia       | Asia          |.|
-| Pitcairn                             | 🇵🇳     | PCN     | Polynesia                 | Oceania       |.|
-| Poland                               | 🇵🇱     | POL     | Eastern Europe            | Europe        |.|
-| Portugal                             | 🇵🇹     | PRT     | Southern Europe           | Europe        |.|
-| Puerto Rico                          | 🇵🇷     | PRI     | Caribbean                 | North America |.|
-| Qatar                                | 🇶🇦     | QAT     | Western Asia              | Asia          |.|
-| Réunion                              | 🇷🇪     | REU     | Eastern Africa            | Africa        |.|
-| Romania                              | 🇷🇴     | ROU     | Eastern Europe            | Europe        |.|
-| Russia                               | 🇷🇺     | RUS     | Eastern Europe            | Europe        |.|
-| Rwanda                               | 🇷🇼     | RWA     | Eastern Africa            | Africa        |.|
+| Oman                                 | 🇴🇲     | OMN     | Western Asia              | Asia          |.om|
+| Pakistan                             | 🇵🇰     | PAK     | Southern Asia             | Asia          |.pk|
+| Palau                                | 🇵🇼     | PLW     | Micronesia                | Oceania       |.pw|
+| Palestine                            | 🇵🇸     | PSE     | Western Asia              | Asia          |.ps|
+| Panama                               | 🇵🇦     | PAN     | Central America           | North America |.pa|
+| Papua New Guinea                     | 🇵🇬     | PNG     | Melanesia                 | Oceania       |.pg|
+| Paraguay                             | 🇵🇾     | PRY     | South America             | South America |.py|
+| Peru                                 | 🇵🇪     | PER     | South America             | South America |.pe|
+| Philippines                          | 🇵🇭     | PHL     | South\-eastern Asia       | Asia          |.ph|
+| Pitcairn                             | 🇵🇳     | PCN     | Polynesia                 | Oceania       |.pn|
+| Poland                               | 🇵🇱     | POL     | Eastern Europe            | Europe        |.pl|
+| Portugal                             | 🇵🇹     | PRT     | Southern Europe           | Europe        |.pt|
+| Puerto Rico                          | 🇵🇷     | PRI     | Caribbean                 | North America |.pr|
+| Qatar                                | 🇶🇦     | QAT     | Western Asia              | Asia          |.qa|
+| Réunion                              | 🇷🇪     | REU     | Eastern Africa            | Africa        |.re|
+| Romania                              | 🇷🇴     | ROU     | Eastern Europe            | Europe        |.ro|
+| Russia                               | 🇷🇺     | RUS     | Eastern Europe            | Europe        |.ru|
+| Rwanda                               | 🇷🇼     | RWA     | Eastern Africa            | Africa        |.rw|
 | Saint Barthélemy                     | 🇧🇱     | BLM     | Caribbean                 | North America |.|
 | Saint Helena                         | 🇸🇭     | SHN     | Western Africa            | Africa        |.|
 | Saint Kitts and Nevis                | 🇰🇳     | KNA     | Caribbean                 | North America |.|
