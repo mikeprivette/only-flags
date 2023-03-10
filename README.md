@@ -1,4 +1,7 @@
 # Only Flags 🏁
+
+![Only Flags](https://raw.githubusercontent.com/mikeprivette/only-flags/main/OnlyFlags.png) 
+
 A repo of all the flag emojis for every country in the world mapped to ISO codes, regions, and continent.
 
 | **Country**                          | **Flag Emoji** | **ISO Code**  | **Region**  | **Continent** | **ccTLD** |
@@ -33,7 +36,7 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Bonaire, Sint Eustatius and Saba     | 🇧🇶     | BES     | Caribbean                 | North America |.bq|
 | Bosnia and Herzegovina               | 🇧🇦     | BIH     | Southern Europe           | Europe        |.ba|
 | Botswana                             | 🇧🇼     | BWA     | Southern Africa           | Africa        |.bw|
-| Bouvet Island                        | 🇧🇻     | BVT     | South America             | South America |.no|
+| Bouvet Island (Territory of Norway)  | 🇧🇻     | BVT     | South Atlantic Ocean      | Antarctic Region |.no|
 | Brazil                               | 🇧🇷     | BRA     | South America             | South America |.br|
 | British Indian Ocean Territory       | 🇮🇴     | IOT     | Eastern Africa            | Africa        |.io|
 | British Virgin Islands               | 🇻🇬     | VGB     | Caribbean                 | North America |.vg|
