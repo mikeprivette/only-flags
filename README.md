@@ -76,53 +76,53 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Eritrea                              | 🇪🇷     | ERI     | Eastern Africa            | Africa        |.er|
 | Estonia                              | 🇪🇪     | EST     | Northern Europe           | Europe        |.ee|
 | Ethiopia                             | 🇪🇹     | ETH     | Eastern Africa            | Africa        |.et|
-| Falkland Islands \(Malvinas\)        | 🇫🇰     | FLK     | South America             | South America |.|
-| Faroe Islands                        | 🇫🇴     | FRO     | Northern Europe           | Europe        |.|
-| Fiji                                 | 🇫🇯     | FJI     | Melanesia                 | Oceania       |.|
-| Finland                              | 🇫🇮     | FIN     | Northern Europe           | Europe        |.|
-| France                               | 🇫🇷     | FRA     | Western Europe            | Europe        |.|
-| French Guiana                        | 🇬🇫     | GUF     | South America             | South America |.|
-| French Polynesia                     | 🇵🇫     | PYF     | Polynesia                 | Oceania       |.|
-| French Southern Territories          | 🇹🇫     | ATF     | Eastern Africa            | Africa        |.|
-| Gabon                                | 🇬🇦     | GAB     | Middle Africa             | Africa        |.|
-| Gambia                               | 🇬🇲     | GMB     | Western Africa            | Africa        |.|
-| Georgia                              | 🇬🇪     | GEO     | Western Asia              | Asia          |.|
-| Germany                              | 🇩🇪     | DEU     | Western Europe            | Europe        |.|
-| Ghana                                | 🇬🇭     | GHA     | Western Africa            | Africa        |.|
-| Gibraltar                            | 🇬🇮     | GIB     | Southern Europe           | Europe        |.|
-| Greece                               | 🇬🇷     | GRC     | Southern Europe           | Europe        |.|
-| Greenland                            | 🇬🇱     | GRL     | Northern America          | North America |.|
-| Grenada                              | 🇬🇩     | GRD     | Caribbean                 | North America |.|
-| Guadeloupe                           | 🇬🇵     | GLP     | Caribbean                 | North America |.|
-| Guam                                 | 🇬🇺     | GUM     | Micronesia                | Oceania       |.|
-| Guatemala                            | 🇬🇹     | GTM     | Central America           | North America |.|
-| Guernsey                             | 🇬🇬     | GGY     | Northern Europe           | Europe        |.|
-| Guinea                               | 🇬🇳     | GIN     | Western Africa            | Africa        |.|
-| Guinea\-Bissau                       | 🇬🇼     | GNB     | Western Africa            | Africa        |.|
-| Guyana                               | 🇬🇾     | GUY     | South America             | South America |.|
-| Haiti                                | 🇭🇹     | HTI     | Caribbean                 | North America |.|
-| Heard Island and McDonald Islands    | 🇭🇲     | HMD     | Australia and New Zealand | Oceania       |.|
-| Honduras                             | 🇭🇳     | HND     | Central America           | South America |.|
-| Hong Kong                            | 🇭🇰     | HKG     | Eastern Asia              | Asia          |.|
-| Hungary                              | 🇭🇺     | HUN     | Eastern Europe            | Europe        |.|
-| Iceland                              | 🇮🇸     | ISL     | Northern Europe           | Europe        |.|
-| India                                | 🇮🇳     | IND     | Southern Asia             | Asia          |.|
-| Indonesia                            | 🇮🇩     | IDN     | South\-eastern Asia       | Asia          |.|
-| Iran                                 | 🇮🇷     | IRN     | Southern Asia             | Asia          |.|
-| Iraq                                 | 🇮🇶     | IRQ     | Western Asia              | Asia          |.|
-| Ireland                              | 🇮🇪     | IRL     | Northern Europe           | Europe        |.|
-| Isle of Man                          | 🇮🇲     | IMN     | Northern Europe           | Europe        |.|
-| Israel                               | 🇮🇱     | ISR     | Western Asia              | Asia          |.|
-| Italy                                | 🇮🇹     | ITA     | Southern Europe           | Europe        |.|
-| Jamaica                              | 🇯🇲     | JAM     | Caribbean                 | North America |.|
-| Japan                                | 🇯🇵     | JPN     | Eastern Asia              | Asia          |.|
-| Jersey                               | 🇯🇪     | JEY     | Northern Europe           | Europe        |.|
-| Jordan                               | 🇯🇴     | JOR     | Western Asia              | Asia          |.|
-| Kazakhstan                           | 🇰🇿     | KAZ     | Central Asia              | Asia          |.|
-| Kenya                                | 🇰🇪     | KEN     | Eastern Africa            | Africa        |.|
-| Kiribati                             | 🇰🇮     | KIR     | Micronesia                | Oceania       |.|
-| Kuwait                               | 🇰🇼     | KWT     | Western Asia              | Asia          |.|
-| Kyrgyzstan                           | 🇰🇬     | KGZ     | Central Asia              | Asia          |.|
+| Falkland Islands \(Malvinas\)        | 🇫🇰     | FLK     | South America             | South America |.fk|
+| Faroe Islands                        | 🇫🇴     | FRO     | Northern Europe           | Europe        |.fo|
+| Fiji                                 | 🇫🇯     | FJI     | Melanesia                 | Oceania       |.fj|
+| Finland                              | 🇫🇮     | FIN     | Northern Europe           | Europe        |.fi|
+| France                               | 🇫🇷     | FRA     | Western Europe            | Europe        |.fr|
+| French Guiana                        | 🇬🇫     | GUF     | South America             | South America |.gf|
+| French Polynesia                     | 🇵🇫     | PYF     | Polynesia                 | Oceania       |.pf|
+| French Southern Territories          | 🇹🇫     | ATF     | Eastern Africa            | Africa        |.tf|
+| Gabon                                | 🇬🇦     | GAB     | Middle Africa             | Africa        |.ga|
+| Gambia, The                          | 🇬🇲     | GMB     | Western Africa            | Africa        |.gm|
+| Georgia                              | 🇬🇪     | GEO     | Western Asia              | Asia          |.ge|
+| Germany                              | 🇩🇪     | DEU     | Western Europe            | Europe        |.de|
+| Ghana                                | 🇬🇭     | GHA     | Western Africa            | Africa        |.gh|
+| Gibraltar                            | 🇬🇮     | GIB     | Southern Europe           | Europe        |.gi|
+| Greece                               | 🇬🇷     | GRC     | Southern Europe           | Europe        |.gr|
+| Greenland                            | 🇬🇱     | GRL     | Northern America          | North America |.gl|
+| Grenada                              | 🇬🇩     | GRD     | Caribbean                 | North America |.gd|
+| Guadeloupe                           | 🇬🇵     | GLP     | Caribbean                 | North America |.gp|
+| Guam                                 | 🇬🇺     | GUM     | Micronesia                | Oceania       |.gu|
+| Guatemala                            | 🇬🇹     | GTM     | Central America           | North America |.gt|
+| Guernsey                             | 🇬🇬     | GGY     | Northern Europe           | Europe        |.gg|
+| Guinea                               | 🇬🇳     | GIN     | Western Africa            | Africa        |.gn|
+| Guinea\-Bissau                       | 🇬🇼     | GNB     | Western Africa            | Africa        |.gw|
+| Guyana                               | 🇬🇾     | GUY     | South America             | South America |.gy|
+| Haiti                                | 🇭🇹     | HTI     | Caribbean                 | North America |.ht|
+| Heard Island and McDonald Islands    | 🇭🇲     | HMD     | Australia and New Zealand | Oceania       |.hm|
+| Honduras                             | 🇭🇳     | HND     | Central America           | South America |.hn|
+| Hong Kong                            | 🇭🇰     | HKG     | Eastern Asia              | Asia          |.hk|
+| Hungary                              | 🇭🇺     | HUN     | Eastern Europe            | Europe        |.hu|
+| Iceland                              | 🇮🇸     | ISL     | Northern Europe           | Europe        |.is|
+| India                                | 🇮🇳     | IND     | Southern Asia             | Asia          |.in|
+| Indonesia                            | 🇮🇩     | IDN     | South\-eastern Asia       | Asia          |.id|
+| Iran                                 | 🇮🇷     | IRN     | Southern Asia             | Asia          |.ir|
+| Iraq                                 | 🇮🇶     | IRQ     | Western Asia              | Asia          |.iq|
+| Ireland                              | 🇮🇪     | IRL     | Northern Europe           | Europe        |.ie|
+| Isle of Man                          | 🇮🇲     | IMN     | Northern Europe           | Europe        |.im|
+| Israel                               | 🇮🇱     | ISR     | Western Asia              | Asia          |.il|
+| Italy                                | 🇮🇹     | ITA     | Southern Europe           | Europe        |.it|
+| Jamaica                              | 🇯🇲     | JAM     | Caribbean                 | North America |.jm|
+| Japan                                | 🇯🇵     | JPN     | Eastern Asia              | Asia          |.jp|
+| Jersey                               | 🇯🇪     | JEY     | Northern Europe           | Europe        |.je|
+| Jordan                               | 🇯🇴     | JOR     | Western Asia              | Asia          |.jo|
+| Kazakhstan                           | 🇰🇿     | KAZ     | Central Asia              | Asia          |.kz|
+| Kenya                                | 🇰🇪     | KEN     | Eastern Africa            | Africa        |.ke|
+| Kiribati                             | 🇰🇮     | KIR     | Micronesia                | Oceania       |.ki|
+| Kuwait                               | 🇰🇼     | KWT     | Western Asia              | Asia          |.kw|
+| Kyrgyzstan                           | 🇰🇬     | KGZ     | Central Asia              | Asia          |.kg|
 | Lao People's Democratic Republic     | 🇱🇦     | LAO     | South\-eastern Asia       | Asia          |.|
 | Latvia                               | 🇱🇻     | LVA     | Northern Europe           | Europe        |.|
 | Lebanon                              | 🇱🇧     | LBN     | Western Asia              | Asia          |.|
