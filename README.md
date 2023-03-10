@@ -121,6 +121,8 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Kazakhstan                           | 🇰🇿     | KAZ     | Central Asia              | Asia          |.kz|
 | Kenya                                | 🇰🇪     | KEN     | Eastern Africa            | Africa        |.ke|
 | Kiribati                             | 🇰🇮     | KIR     | Micronesia                | Oceania       |.ki|
+| Korea (the Republic of)              | 🇰🇷     | KOR     | Eastern Asia              | Asia          |.kr|
+| Korea (the Democratic People's Republic of)| 🇰🇵      | PRK     | Eastern Asia              | Asia          |.kp|
 | Kuwait                               | 🇰🇼     | KWT     | Western Asia              | Asia          |.kw|
 | Kyrgyzstan                           | 🇰🇬     | KGZ     | Central Asia              | Asia          |.kg|
 | Lao People's Democratic Republic     | 🇱🇦     | LAO     | South\-eastern Asia       | Asia          |.la|
@@ -154,20 +156,21 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Morocco                              | 🇲🇦     | MAR     | Northern Africa           | Africa        |.ma|
 | Mozambique                           | 🇲🇿     | MOZ     | Eastern Africa            | Africa        |.mz|
 | Myanmar                              | 🇲🇲     | MMR     | South\-eastern Asia       | Asia          |.mm|
-| Namibia                              | 🇳🇦     | NAM     | Southern Africa           | Africa        |.|
-| Nauru                                | 🇳🇷     | NRU     | Micronesia                | Oceania       |.|
-| Nepal                                | 🇳🇵     | NPL     | Southern Asia             | Asia          |.|
-| New Caledonia                        | 🇳🇨     | NCL     | Melanesia                 | Oceania       |.|
-| New Zealand                          | 🇳🇿     | NZL     | Australia and New Zealand | Oceania       |.|
-| Nicaragua                            | 🇳🇮     | NIC     | Central America           | North America |.|
-| Niger                                | 🇳🇪     | NER     | Western Africa            | Africa        |.|
-| Nigeria                              | 🇳🇬     | NGA     | Western Africa            | Africa        |.|
-| Niue                                 | 🇳🇺     | NIU     | Polynesia                 | Oceania       |.|
-| Norfolk Island                       | 🇳🇫     | NFK     | Australia and New Zealand | Oceania       |.|
-| Northern Ireland                     | 🇬🇧     | GB-NIR  | Northern Europe           | Europe        |.|
-| Northern Mariana Islands             | 🇲🇵     | MNP     | Micronesia                | Oceania       |.|
+| Namibia                              | 🇳🇦     | NAM     | Southern Africa           | Africa        |.na|
+| Nauru                                | 🇳🇷     | NRU     | Micronesia                | Oceania       |.nr|
+| Nepal                                | 🇳🇵     | NPL     | Southern Asia             | Asia          |.np|
+| Netherlands (the)                    | 🇳🇱     | NLD     | Western Europe            | Europe        |.nl|
+| New Caledonia                        | 🇳🇨     | NCL     | Melanesia                 | Oceania       |.nc|
+| New Zealand                          | 🇳🇿     | NZL     | Australia and New Zealand | Oceania       |.nz|
+| Nicaragua                            | 🇳🇮     | NIC     | Central America           | North America |.ni|
+| Niger                                | 🇳🇪     | NER     | Western Africa            | Africa        |.ne|
+| Nigeria                              | 🇳🇬     | NGA     | Western Africa            | Africa        |.ng|
+| Niue                                 | 🇳🇺     | NIU     | Polynesia                 | Oceania       |.nu|
+| Norfolk Island                       | 🇳🇫     | NFK     | Australia and New Zealand | Oceania       |.nf|
 | North Macedonia                      | 🇲🇰     | MKD     | Southern Europe           | Europe        |.mk|
-| Norway                               | 🇳🇴     | NOR     | Northern Europe           | Europe        |.|
+| Northern Ireland                     | 🇬🇧     | GB-NIR  | Northern Europe           | Europe        |.uk|
+| Northern Mariana Islands             | 🇲🇵     | MNP     | Micronesia                | Oceania       |.mp|
+| Norway                               | 🇳🇴     | NOR     | Northern Europe           | Europe        |.no|
 | Oman                                 | 🇴🇲     | OMN     | Western Asia              | Asia          |.|
 | Pakistan                             | 🇵🇰     | PAK     | Southern Asia             | Asia          |.|
 | Palau                                | 🇵🇼     | PLW     | Micronesia                | Oceania       |.|
@@ -209,7 +212,6 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Somalia                              | 🇸🇴     | SOM     | Eastern Africa            | Africa        |.|
 | South Africa                         | 🇿🇦     | ZAF     | Southern Africa           | Africa        |.|
 | South Georgia                        | 🇬🇸     | SGS     | South America             | South America |.|
-| South Korea                          | 🇰🇷     | KOR     | Eastern Asia              | Asia          |.|
 | South Sudan                          | 🇸🇸     | SSD     | Eastern Africa            | Africa        |.|
 | Spain                                | 🇪🇸     | ESP     | Southern Europe           | Europe        |.|
 | Sri Lanka                            | 🇱🇰     | LKA     | Southern Asia             | Asia          |.|
@@ -223,7 +225,6 @@ A repo of all the flag emojis for every country in the world mapped to ISO codes
 | Tajikistan                           | 🇹🇯     | TJK     | Central Asia              | Asia          |.|
 | Tanzania                             | 🇹🇿     | TZA     | Eastern Africa            | Africa        |.|
 | Thailand                             | 🇹🇭     | THA     | South\-eastern Asia       | Asia          |.|
-| The Netherlands                      | 🇳🇱     | NLD     | Western Europe            | Europe        |.|
 | Timor\-Leste                         | 🇹🇱     | TLS     | South\-eastern Asia       | Asia          |.|
 | Togo                                 | 🇹🇬     | TGO     | Western Africa            | Africa        |.|
 | Tokelau                              | 🇹🇰     | TKL     | Polynesia                 | Oceania       |.|
