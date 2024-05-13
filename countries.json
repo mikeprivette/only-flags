@@ -1,0 +1,2018 @@
+[
+  {
+    "Country": "Afghanistan",
+    "Flag Emoji": "🇦🇫",
+    "ISO Code": "AFG",
+    "Region": "Southern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".af"
+  },
+  {
+    "Country": "Åland Islands",
+    "Flag Emoji": "🇦🇽",
+    "ISO Code": "ALA",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".ax"
+  },
+  {
+    "Country": "Albania",
+    "Flag Emoji": "🇦🇱",
+    "ISO Code": "ALB",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".al"
+  },
+  {
+    "Country": "Algeria",
+    "Flag Emoji": "🇩🇿",
+    "ISO Code": "DZA",
+    "Region": "Northern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".dz"
+  },
+  {
+    "Country": "American Samoa",
+    "Flag Emoji": "🇦🇸",
+    "ISO Code": "ASM",
+    "Region": "Polynesia",
+    "Continent": "Oceania",
+    "ccTLD": ".as"
+  },
+  {
+    "Country": "Andorra",
+    "Flag Emoji": "🇦🇩",
+    "ISO Code": "AND",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".ad"
+  },
+  {
+    "Country": "Angola",
+    "Flag Emoji": "🇦🇴",
+    "ISO Code": "AGO",
+    "Region": "Middle Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ao"
+  },
+  {
+    "Country": "Anguilla",
+    "Flag Emoji": "🇦🇮",
+    "ISO Code": "AIA",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".ai"
+  },
+  {
+    "Country": "Antarctica",
+    "Flag Emoji": "🇦🇶",
+    "ISO Code": "ATA",
+    "Region": "Antarctica",
+    "Continent": "Antarctica",
+    "ccTLD": ".aq"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Flag Emoji": "🇦🇬",
+    "ISO Code": "ATG",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".ag"
+  },
+  {
+    "Country": "Argentina",
+    "Flag Emoji": "🇦🇷",
+    "ISO Code": "ARG",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".ar"
+  },
+  {
+    "Country": "Armenia",
+    "Flag Emoji": "🇦🇲",
+    "ISO Code": "ARM",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".am"
+  },
+  {
+    "Country": "Aruba",
+    "Flag Emoji": "🇦🇼",
+    "ISO Code": "ABW",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".aw"
+  },
+  {
+    "Country": "Australia",
+    "Flag Emoji": "🇦🇺",
+    "ISO Code": "AUS",
+    "Region": "Australia and New Zealand",
+    "Continent": "Oceania",
+    "ccTLD": ".au"
+  },
+  {
+    "Country": "Austria",
+    "Flag Emoji": "🇦🇹",
+    "ISO Code": "AUT",
+    "Region": "Western Europe",
+    "Continent": "Europe",
+    "ccTLD": ".at"
+  },
+  {
+    "Country": "Azerbaijan",
+    "Flag Emoji": "🇦🇿",
+    "ISO Code": "AZE",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".az"
+  },
+  {
+    "Country": "Bahamas",
+    "Flag Emoji": "🇧🇸",
+    "ISO Code": "BHS",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".bs"
+  },
+  {
+    "Country": "Bahrain",
+    "Flag Emoji": "🇧🇭",
+    "ISO Code": "BHR",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".bh"
+  },
+  {
+    "Country": "Bangladesh",
+    "Flag Emoji": "🇧🇩",
+    "ISO Code": "BGD",
+    "Region": "Southern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".bd"
+  },
+  {
+    "Country": "Barbados",
+    "Flag Emoji": "🇧🇧",
+    "ISO Code": "BRB",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".bb"
+  },
+  {
+    "Country": "Belarus",
+    "Flag Emoji": "🇧🇾",
+    "ISO Code": "BLR",
+    "Region": "Eastern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".by"
+  },
+  {
+    "Country": "Belgium",
+    "Flag Emoji": "🇧🇪",
+    "ISO Code": "BEL",
+    "Region": "Western Europe",
+    "Continent": "Europe",
+    "ccTLD": ".be"
+  },
+  {
+    "Country": "Belize",
+    "Flag Emoji": "🇧🇿",
+    "ISO Code": "BLZ",
+    "Region": "Central America",
+    "Continent": "North America",
+    "ccTLD": ".bz"
+  },
+  {
+    "Country": "Benin",
+    "Flag Emoji": "🇧🇯",
+    "ISO Code": "BEN",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".bj"
+  },
+  {
+    "Country": "Bermuda",
+    "Flag Emoji": "🇧🇲",
+    "ISO Code": "BMU",
+    "Region": "Northern America",
+    "Continent": "North America",
+    "ccTLD": ".bm"
+  },
+  {
+    "Country": "Bhutan",
+    "Flag Emoji": "🇧🇹",
+    "ISO Code": "BTN",
+    "Region": "Southern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".bt"
+  },
+  {
+    "Country": "Bolivia",
+    "Flag Emoji": "🇧🇴",
+    "ISO Code": "BOL",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".bo"
+  },
+  {
+    "Country": "Bonaire, Sint Eustatius and Saba",
+    "Flag Emoji": "🇧🇶",
+    "ISO Code": "BES",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".bq"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Flag Emoji": "🇧🇦",
+    "ISO Code": "BIH",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".ba"
+  },
+  {
+    "Country": "Botswana",
+    "Flag Emoji": "🇧🇼",
+    "ISO Code": "BWA",
+    "Region": "Southern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".bw"
+  },
+  {
+    "Country": "Bouvet Island (Territory of Norway)",
+    "Flag Emoji": "🇧🇻",
+    "ISO Code": "BVT",
+    "Region": "South Atlantic Ocean",
+    "Continent": "Antarctic Region",
+    "ccTLD": ".no"
+  },
+  {
+    "Country": "Brazil",
+    "Flag Emoji": "🇧🇷",
+    "ISO Code": "BRA",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".br"
+  },
+  {
+    "Country": "British Indian Ocean Territory",
+    "Flag Emoji": "🇮🇴",
+    "ISO Code": "IOT",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".io"
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Flag Emoji": "🇻🇬",
+    "ISO Code": "VGB",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".vg"
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Flag Emoji": "🇧🇳",
+    "ISO Code": "BRN",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".bn"
+  },
+  {
+    "Country": "Bulgaria",
+    "Flag Emoji": "🇧🇬",
+    "ISO Code": "BGR",
+    "Region": "Eastern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".bg"
+  },
+  {
+    "Country": "Burkina Faso",
+    "Flag Emoji": "🇧🇫",
+    "ISO Code": "BFA",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".bf"
+  },
+  {
+    "Country": "Burundi",
+    "Flag Emoji": "🇧🇮",
+    "ISO Code": "BDI",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".bi"
+  },
+  {
+    "Country": "Cabo Verde",
+    "Flag Emoji": "🇨🇻",
+    "ISO Code": "CPV",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".cv"
+  },
+  {
+    "Country": "Cambodia",
+    "Flag Emoji": "🇰🇭",
+    "ISO Code": "KHM",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".kh"
+  },
+  {
+    "Country": "Cameroon",
+    "Flag Emoji": "🇨🇲",
+    "ISO Code": "CMR",
+    "Region": "Middle Africa",
+    "Continent": "Africa",
+    "ccTLD": ".cm"
+  },
+  {
+    "Country": "Canada",
+    "Flag Emoji": "🇨🇦",
+    "ISO Code": "CAN",
+    "Region": "Northern America",
+    "Continent": "North America",
+    "ccTLD": ".ca"
+  },
+  {
+    "Country": "Cayman Islands",
+    "Flag Emoji": "🇰🇾",
+    "ISO Code": "CYM",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".ky"
+  },
+  {
+    "Country": "Central African Republic",
+    "Flag Emoji": "🇨🇫",
+    "ISO Code": "CAF",
+    "Region": "Middle Africa",
+    "Continent": "Africa",
+    "ccTLD": ".cf"
+  },
+  {
+    "Country": "Chad",
+    "Flag Emoji": "🇹🇩",
+    "ISO Code": "TCD",
+    "Region": "Middle Africa",
+    "Continent": "Africa",
+    "ccTLD": ".td"
+  },
+  {
+    "Country": "Chile",
+    "Flag Emoji": "🇨🇱",
+    "ISO Code": "CHL",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".cl"
+  },
+  {
+    "Country": "China",
+    "Flag Emoji": "🇨🇳",
+    "ISO Code": "CHN",
+    "Region": "Eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".cn"
+  },
+  {
+    "Country": "Christmas Island",
+    "Flag Emoji": "🇨🇽",
+    "ISO Code": "CXR",
+    "Region": "Australia and New Zealand",
+    "Continent": "Oceania",
+    "ccTLD": ".cx"
+  },
+  {
+    "Country": "Cocos (Keeling) Islands",
+    "Flag Emoji": "🇨🇨",
+    "ISO Code": "CCK",
+    "Region": "Australia and New Zealand",
+    "Continent": "Oceania",
+    "ccTLD": ".cc"
+  },
+  {
+    "Country": "Colombia",
+    "Flag Emoji": "🇨🇴",
+    "ISO Code": "COL",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".co"
+  },
+  {
+    "Country": "Comoros",
+    "Flag Emoji": "🇰🇲",
+    "ISO Code": "COM",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".km"
+  },
+  {
+    "Country": "Congo, Democratic Republic of the",
+    "Flag Emoji": "🇨🇩",
+    "ISO Code": "COD",
+    "Region": "Middle Africa",
+    "Continent": "Africa",
+    "ccTLD": ".cd"
+  },
+  {
+    "Country": "Congo, Republic of the",
+    "Flag Emoji": "🇨🇬",
+    "ISO Code": "COG",
+    "Region": "Middle Africa",
+    "Continent": "Africa",
+    "ccTLD": ".cg"
+  },
+  {
+    "Country": "Cook Islands",
+    "Flag Emoji": "🇨🇰",
+    "ISO Code": "COK",
+    "Region": "Polynesia",
+    "Continent": "Oceania",
+    "ccTLD": ".ck"
+  },
+  {
+    "Country": "Costa Rica",
+    "Flag Emoji": "🇨🇷",
+    "ISO Code": "CRI",
+    "Region": "Central America",
+    "Continent": "North America",
+    "ccTLD": ".cr"
+  },
+  {
+    "Country": "Côte D'Ivoire",
+    "Flag Emoji": "🇨🇮",
+    "ISO Code": "CIV",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ci"
+  },
+  {
+    "Country": "Croatia",
+    "Flag Emoji": "🇭🇷",
+    "ISO Code": "HRV",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".hr"
+  },
+  {
+    "Country": "Cuba",
+    "Flag Emoji": "🇨🇺",
+    "ISO Code": "CUB",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".cu"
+  },
+  {
+    "Country": "Curaçao",
+    "Flag Emoji": "🇨🇼",
+    "ISO Code": "CUW",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".cw"
+  },
+  {
+    "Country": "Cyprus",
+    "Flag Emoji": "🇨🇾",
+    "ISO Code": "CYP",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".cy"
+  },
+  {
+    "Country": "Czechia",
+    "Flag Emoji": "🇨🇿",
+    "ISO Code": "CZE",
+    "Region": "Eastern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".cz"
+  },
+  {
+    "Country": "Denmark",
+    "Flag Emoji": "🇩🇰",
+    "ISO Code": "DNK",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".dk"
+  },
+  {
+    "Country": "Djibouti",
+    "Flag Emoji": "🇩🇯",
+    "ISO Code": "DJI",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".dj"
+  },
+  {
+    "Country": "Dominica",
+    "Flag Emoji": "🇩🇲",
+    "ISO Code": "DMA",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".dm"
+  },
+  {
+    "Country": "Dominican Republic",
+    "Flag Emoji": "🇩🇴",
+    "ISO Code": "DOM",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".do"
+  },
+  {
+    "Country": "Ecuador",
+    "Flag Emoji": "🇪🇨",
+    "ISO Code": "ECU",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".ec"
+  },
+  {
+    "Country": "Egypt",
+    "Flag Emoji": "🇪🇬",
+    "ISO Code": "EGY",
+    "Region": "Northern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".eg"
+  },
+  {
+    "Country": "El Salvador",
+    "Flag Emoji": "🇸🇻",
+    "ISO Code": "SLV",
+    "Region": "Central America",
+    "Continent": "North America",
+    "ccTLD": ".sv"
+  },
+  {
+    "Country": "England",
+    "Flag Emoji": "🇬🇧",
+    "ISO Code": "GB-ENG",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".uk"
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Flag Emoji": "🇬🇶",
+    "ISO Code": "GNQ",
+    "Region": "Middle Africa",
+    "Continent": "Africa",
+    "ccTLD": ".gq"
+  },
+  {
+    "Country": "Eritrea",
+    "Flag Emoji": "🇪🇷",
+    "ISO Code": "ERI",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".er"
+  },
+  {
+    "Country": "Estonia",
+    "Flag Emoji": "🇪🇪",
+    "ISO Code": "EST",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".ee"
+  },
+  {
+    "Country": "Ethiopia",
+    "Flag Emoji": "🇪🇹",
+    "ISO Code": "ETH",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".et"
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Flag Emoji": "🇫🇰",
+    "ISO Code": "FLK",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".fk"
+  },
+  {
+    "Country": "Faroe Islands",
+    "Flag Emoji": "🇫🇴",
+    "ISO Code": "FRO",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".fo"
+  },
+  {
+    "Country": "Fiji",
+    "Flag Emoji": "🇫🇯",
+    "ISO Code": "FJI",
+    "Region": "Melanesia",
+    "Continent": "Oceania",
+    "ccTLD": ".fj"
+  },
+  {
+    "Country": "Finland",
+    "Flag Emoji": "🇫🇮",
+    "ISO Code": "FIN",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".fi"
+  },
+  {
+    "Country": "France",
+    "Flag Emoji": "🇫🇷",
+    "ISO Code": "FRA",
+    "Region": "Western Europe",
+    "Continent": "Europe",
+    "ccTLD": ".fr"
+  },
+  {
+    "Country": "French Guiana",
+    "Flag Emoji": "🇬🇫",
+    "ISO Code": "GUF",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".gf"
+  },
+  {
+    "Country": "French Polynesia",
+    "Flag Emoji": "🇵🇫",
+    "ISO Code": "PYF",
+    "Region": "Polynesia",
+    "Continent": "Oceania",
+    "ccTLD": ".pf"
+  },
+  {
+    "Country": "French Southern Territories",
+    "Flag Emoji": "🇹🇫",
+    "ISO Code": "ATF",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".tf"
+  },
+  {
+    "Country": "Gabon",
+    "Flag Emoji": "🇬🇦",
+    "ISO Code": "GAB",
+    "Region": "Middle Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ga"
+  },
+  {
+    "Country": "Gambia, The",
+    "Flag Emoji": "🇬🇲",
+    "ISO Code": "GMB",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".gm"
+  },
+  {
+    "Country": "Georgia",
+    "Flag Emoji": "🇬🇪",
+    "ISO Code": "GEO",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".ge"
+  },
+  {
+    "Country": "Germany",
+    "Flag Emoji": "🇩🇪",
+    "ISO Code": "DEU",
+    "Region": "Western Europe",
+    "Continent": "Europe",
+    "ccTLD": ".de"
+  },
+  {
+    "Country": "Ghana",
+    "Flag Emoji": "🇬🇭",
+    "ISO Code": "GHA",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".gh"
+  },
+  {
+    "Country": "Gibraltar",
+    "Flag Emoji": "🇬🇮",
+    "ISO Code": "GIB",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".gi"
+  },
+  {
+    "Country": "Greece",
+    "Flag Emoji": "🇬🇷",
+    "ISO Code": "GRC",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".gr"
+  },
+  {
+    "Country": "Greenland",
+    "Flag Emoji": "🇬🇱",
+    "ISO Code": "GRL",
+    "Region": "Northern America",
+    "Continent": "North America",
+    "ccTLD": ".gl"
+  },
+  {
+    "Country": "Grenada",
+    "Flag Emoji": "🇬🇩",
+    "ISO Code": "GRD",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".gd"
+  },
+  {
+    "Country": "Guadeloupe",
+    "Flag Emoji": "🇬🇵",
+    "ISO Code": "GLP",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".gp"
+  },
+  {
+    "Country": "Guam",
+    "Flag Emoji": "🇬🇺",
+    "ISO Code": "GUM",
+    "Region": "Micronesia",
+    "Continent": "Oceania",
+    "ccTLD": ".gu"
+  },
+  {
+    "Country": "Guatemala",
+    "Flag Emoji": "🇬🇹",
+    "ISO Code": "GTM",
+    "Region": "Central America",
+    "Continent": "North America",
+    "ccTLD": ".gt"
+  },
+  {
+    "Country": "Guernsey",
+    "Flag Emoji": "🇬🇬",
+    "ISO Code": "GGY",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".gg"
+  },
+  {
+    "Country": "Guinea",
+    "Flag Emoji": "🇬🇳",
+    "ISO Code": "GIN",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".gn"
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Flag Emoji": "🇬🇼",
+    "ISO Code": "GNB",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".gw"
+  },
+  {
+    "Country": "Guyana",
+    "Flag Emoji": "🇬🇾",
+    "ISO Code": "GUY",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".gy"
+  },
+  {
+    "Country": "Haiti",
+    "Flag Emoji": "🇭🇹",
+    "ISO Code": "HTI",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".ht"
+  },
+  {
+    "Country": "Heard Island and McDonald Islands",
+    "Flag Emoji": "🇭🇲",
+    "ISO Code": "HMD",
+    "Region": "Australia and New Zealand",
+    "Continent": "Oceania",
+    "ccTLD": ".hm"
+  },
+  {
+    "Country": "Holy See (the)",
+    "Flag Emoji": "🇻🇦",
+    "ISO Code": "VAT",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".va"
+  },
+  {
+    "Country": "Honduras",
+    "Flag Emoji": "🇭🇳",
+    "ISO Code": "HND",
+    "Region": "Central America",
+    "Continent": "South America",
+    "ccTLD": ".hn"
+  },
+  {
+    "Country": "Hong Kong",
+    "Flag Emoji": "🇭🇰",
+    "ISO Code": "HKG",
+    "Region": "Eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".hk"
+  },
+  {
+    "Country": "Hungary",
+    "Flag Emoji": "🇭🇺",
+    "ISO Code": "HUN",
+    "Region": "Eastern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".hu"
+  },
+  {
+    "Country": "Iceland",
+    "Flag Emoji": "🇮🇸",
+    "ISO Code": "ISL",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".is"
+  },
+  {
+    "Country": "India",
+    "Flag Emoji": "🇮🇳",
+    "ISO Code": "IND",
+    "Region": "Southern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".in"
+  },
+  {
+    "Country": "Indonesia",
+    "Flag Emoji": "🇮🇩",
+    "ISO Code": "IDN",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".id"
+  },
+  {
+    "Country": "Iran",
+    "Flag Emoji": "🇮🇷",
+    "ISO Code": "IRN",
+    "Region": "Southern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".ir"
+  },
+  {
+    "Country": "Iraq",
+    "Flag Emoji": "🇮🇶",
+    "ISO Code": "IRQ",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".iq"
+  },
+  {
+    "Country": "Ireland",
+    "Flag Emoji": "🇮🇪",
+    "ISO Code": "IRL",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".ie"
+  },
+  {
+    "Country": "Isle of Man",
+    "Flag Emoji": "🇮🇲",
+    "ISO Code": "IMN",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".im"
+  },
+  {
+    "Country": "Israel",
+    "Flag Emoji": "🇮🇱",
+    "ISO Code": "ISR",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".il"
+  },
+  {
+    "Country": "Italy",
+    "Flag Emoji": "🇮🇹",
+    "ISO Code": "ITA",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".it"
+  },
+  {
+    "Country": "Jamaica",
+    "Flag Emoji": "🇯🇲",
+    "ISO Code": "JAM",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".jm"
+  },
+  {
+    "Country": "Japan",
+    "Flag Emoji": "🇯🇵",
+    "ISO Code": "JPN",
+    "Region": "Eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".jp"
+  },
+  {
+    "Country": "Jersey",
+    "Flag Emoji": "🇯🇪",
+    "ISO Code": "JEY",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".je"
+  },
+  {
+    "Country": "Jordan",
+    "Flag Emoji": "🇯🇴",
+    "ISO Code": "JOR",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".jo"
+  },
+  {
+    "Country": "Kazakhstan",
+    "Flag Emoji": "🇰🇿",
+    "ISO Code": "KAZ",
+    "Region": "Central Asia",
+    "Continent": "Asia",
+    "ccTLD": ".kz"
+  },
+  {
+    "Country": "Kenya",
+    "Flag Emoji": "🇰🇪",
+    "ISO Code": "KEN",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ke"
+  },
+  {
+    "Country": "Kiribati",
+    "Flag Emoji": "🇰🇮",
+    "ISO Code": "KIR",
+    "Region": "Micronesia",
+    "Continent": "Oceania",
+    "ccTLD": ".ki"
+  },
+  {
+    "Country": "Korea (the Republic of)",
+    "Flag Emoji": "🇰🇷",
+    "ISO Code": "KOR",
+    "Region": "Eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".kr"
+  },
+  {
+    "Country": "Korea (the Democratic People's Republic of)",
+    "Flag Emoji": "🇰🇵",
+    "ISO Code": "PRK",
+    "Region": "Eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".kp"
+  },
+  {
+    "Country": "Kuwait",
+    "Flag Emoji": "🇰🇼",
+    "ISO Code": "KWT",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".kw"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Flag Emoji": "🇰🇬",
+    "ISO Code": "KGZ",
+    "Region": "Central Asia",
+    "Continent": "Asia",
+    "ccTLD": ".kg"
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Flag Emoji": "🇱🇦",
+    "ISO Code": "LAO",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".la"
+  },
+  {
+    "Country": "Latvia",
+    "Flag Emoji": "🇱🇻",
+    "ISO Code": "LVA",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".lv"
+  },
+  {
+    "Country": "Lebanon",
+    "Flag Emoji": "🇱🇧",
+    "ISO Code": "LBN",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".lb"
+  },
+  {
+    "Country": "Lesotho",
+    "Flag Emoji": "🇱🇸",
+    "ISO Code": "LSO",
+    "Region": "Southern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ls"
+  },
+  {
+    "Country": "Liberia",
+    "Flag Emoji": "🇱🇷",
+    "ISO Code": "LBR",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".lr"
+  },
+  {
+    "Country": "Libya",
+    "Flag Emoji": "🇱🇾",
+    "ISO Code": "LBY",
+    "Region": "Northern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ly"
+  },
+  {
+    "Country": "Liechtenstein",
+    "Flag Emoji": "🇱🇮",
+    "ISO Code": "LIE",
+    "Region": "Western Europe",
+    "Continent": "Europe",
+    "ccTLD": ".li"
+  },
+  {
+    "Country": "Lithuania",
+    "Flag Emoji": "🇱🇹",
+    "ISO Code": "LTU",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".lt"
+  },
+  {
+    "Country": "Luxembourg",
+    "Flag Emoji": "🇱🇺",
+    "ISO Code": "LUX",
+    "Region": "Western Europe",
+    "Continent": "Europe",
+    "ccTLD": ".lu"
+  },
+  {
+    "Country": "Macao",
+    "Flag Emoji": "🇲🇴",
+    "ISO Code": "MAC",
+    "Region": "Eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".mo"
+  },
+  {
+    "Country": "Madagascar",
+    "Flag Emoji": "🇲🇬",
+    "ISO Code": "MDG",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".mg"
+  },
+  {
+    "Country": "Malawi",
+    "Flag Emoji": "🇲🇼",
+    "ISO Code": "MWI",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".mw"
+  },
+  {
+    "Country": "Malaysia",
+    "Flag Emoji": "🇲🇾",
+    "ISO Code": "MYS",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".my"
+  },
+  {
+    "Country": "Maldives",
+    "Flag Emoji": "🇲🇻",
+    "ISO Code": "MDV",
+    "Region": "Southern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".mv"
+  },
+  {
+    "Country": "Mali",
+    "Flag Emoji": "🇲🇱",
+    "ISO Code": "MLI",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ml"
+  },
+  {
+    "Country": "Malta",
+    "Flag Emoji": "🇲🇹",
+    "ISO Code": "MLT",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".mt"
+  },
+  {
+    "Country": "Marshall Islands",
+    "Flag Emoji": "🇲🇭",
+    "ISO Code": "MHL",
+    "Region": "Micronesia",
+    "Continent": "Oceania",
+    "ccTLD": ".mh"
+  },
+  {
+    "Country": "Martinique",
+    "Flag Emoji": "🇲🇶",
+    "ISO Code": "MTQ",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".mq"
+  },
+  {
+    "Country": "Mauritania",
+    "Flag Emoji": "🇲🇷",
+    "ISO Code": "MRT",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".mr"
+  },
+  {
+    "Country": "Mauritius",
+    "Flag Emoji": "🇲🇺",
+    "ISO Code": "MUS",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".mu"
+  },
+  {
+    "Country": "Mayotte",
+    "Flag Emoji": "🇾🇹",
+    "ISO Code": "MYT",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".yt"
+  },
+  {
+    "Country": "Mexico",
+    "Flag Emoji": "🇲🇽",
+    "ISO Code": "MEX",
+    "Region": "Central America",
+    "Continent": "North America",
+    "ccTLD": ".mx"
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "Flag Emoji": "🇫🇲",
+    "ISO Code": "FSM",
+    "Region": "Micronesia",
+    "Continent": "Oceania",
+    "ccTLD": ".fm"
+  },
+  {
+    "Country": "Moldova",
+    "Flag Emoji": "🇲🇩",
+    "ISO Code": "MDA",
+    "Region": "Eastern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".md"
+  },
+  {
+    "Country": "Monaco",
+    "Flag Emoji": "🇲🇨",
+    "ISO Code": "MCO",
+    "Region": "Western Europe",
+    "Continent": "Europe",
+    "ccTLD": ".mc"
+  },
+  {
+    "Country": "Mongolia",
+    "Flag Emoji": "🇲🇳",
+    "ISO Code": "MNG",
+    "Region": "Eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".mn"
+  },
+  {
+    "Country": "Montenegro",
+    "Flag Emoji": "🇲🇪",
+    "ISO Code": "MNE",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".me"
+  },
+  {
+    "Country": "Montserrat",
+    "Flag Emoji": "🇲🇸",
+    "ISO Code": "MSR",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".ms"
+  },
+  {
+    "Country": "Morocco",
+    "Flag Emoji": "🇲🇦",
+    "ISO Code": "MAR",
+    "Region": "Northern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ma"
+  },
+  {
+    "Country": "Mozambique",
+    "Flag Emoji": "🇲🇿",
+    "ISO Code": "MOZ",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".mz"
+  },
+  {
+    "Country": "Myanmar",
+    "Flag Emoji": "🇲🇲",
+    "ISO Code": "MMR",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".mm"
+  },
+  {
+    "Country": "Namibia",
+    "Flag Emoji": "🇳🇦",
+    "ISO Code": "NAM",
+    "Region": "Southern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".na"
+  },
+  {
+    "Country": "Nauru",
+    "Flag Emoji": "🇳🇷",
+    "ISO Code": "NRU",
+    "Region": "Micronesia",
+    "Continent": "Oceania",
+    "ccTLD": ".nr"
+  },
+  {
+    "Country": "Nepal",
+    "Flag Emoji": "🇳🇵",
+    "ISO Code": "NPL",
+    "Region": "Southern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".np"
+  },
+  {
+    "Country": "Netherlands (the)",
+    "Flag Emoji": "🇳🇱",
+    "ISO Code": "NLD",
+    "Region": "Western Europe",
+    "Continent": "Europe",
+    "ccTLD": ".nl"
+  },
+  {
+    "Country": "New Caledonia",
+    "Flag Emoji": "🇳🇨",
+    "ISO Code": "NCL",
+    "Region": "Melanesia",
+    "Continent": "Oceania",
+    "ccTLD": ".nc"
+  },
+  {
+    "Country": "New Zealand",
+    "Flag Emoji": "🇳🇿",
+    "ISO Code": "NZL",
+    "Region": "Australia and New Zealand",
+    "Continent": "Oceania",
+    "ccTLD": ".nz"
+  },
+  {
+    "Country": "Nicaragua",
+    "Flag Emoji": "🇳🇮",
+    "ISO Code": "NIC",
+    "Region": "Central America",
+    "Continent": "North America",
+    "ccTLD": ".ni"
+  },
+  {
+    "Country": "Niger",
+    "Flag Emoji": "🇳🇪",
+    "ISO Code": "NER",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ne"
+  },
+  {
+    "Country": "Nigeria",
+    "Flag Emoji": "🇳🇬",
+    "ISO Code": "NGA",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ng"
+  },
+  {
+    "Country": "Niue",
+    "Flag Emoji": "🇳🇺",
+    "ISO Code": "NIU",
+    "Region": "Polynesia",
+    "Continent": "Oceania",
+    "ccTLD": ".nu"
+  },
+  {
+    "Country": "Norfolk Island",
+    "Flag Emoji": "🇳🇫",
+    "ISO Code": "NFK",
+    "Region": "Australia and New Zealand",
+    "Continent": "Oceania",
+    "ccTLD": ".nf"
+  },
+  {
+    "Country": "North Macedonia",
+    "Flag Emoji": "🇲🇰",
+    "ISO Code": "MKD",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".mk"
+  },
+  {
+    "Country": "Northern Ireland",
+    "Flag Emoji": "🇬🇧",
+    "ISO Code": "GB-NIR",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".uk"
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "Flag Emoji": "🇲🇵",
+    "ISO Code": "MNP",
+    "Region": "Micronesia",
+    "Continent": "Oceania",
+    "ccTLD": ".mp"
+  },
+  {
+    "Country": "Norway",
+    "Flag Emoji": "🇳🇴",
+    "ISO Code": "NOR",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".no"
+  },
+  {
+    "Country": "Oman",
+    "Flag Emoji": "🇴🇲",
+    "ISO Code": "OMN",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".om"
+  },
+  {
+    "Country": "Pakistan",
+    "Flag Emoji": "🇵🇰",
+    "ISO Code": "PAK",
+    "Region": "Southern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".pk"
+  },
+  {
+    "Country": "Palau",
+    "Flag Emoji": "🇵🇼",
+    "ISO Code": "PLW",
+    "Region": "Micronesia",
+    "Continent": "Oceania",
+    "ccTLD": ".pw"
+  },
+  {
+    "Country": "Palestine",
+    "Flag Emoji": "🇵🇸",
+    "ISO Code": "PSE",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".ps"
+  },
+  {
+    "Country": "Panama",
+    "Flag Emoji": "🇵🇦",
+    "ISO Code": "PAN",
+    "Region": "Central America",
+    "Continent": "North America",
+    "ccTLD": ".pa"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Flag Emoji": "🇵🇬",
+    "ISO Code": "PNG",
+    "Region": "Melanesia",
+    "Continent": "Oceania",
+    "ccTLD": ".pg"
+  },
+  {
+    "Country": "Paraguay",
+    "Flag Emoji": "🇵🇾",
+    "ISO Code": "PRY",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".py"
+  },
+  {
+    "Country": "Peru",
+    "Flag Emoji": "🇵🇪",
+    "ISO Code": "PER",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".pe"
+  },
+  {
+    "Country": "Philippines",
+    "Flag Emoji": "🇵🇭",
+    "ISO Code": "PHL",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".ph"
+  },
+  {
+    "Country": "Pitcairn",
+    "Flag Emoji": "🇵🇳",
+    "ISO Code": "PCN",
+    "Region": "Polynesia",
+    "Continent": "Oceania",
+    "ccTLD": ".pn"
+  },
+  {
+    "Country": "Poland",
+    "Flag Emoji": "🇵🇱",
+    "ISO Code": "POL",
+    "Region": "Eastern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".pl"
+  },
+  {
+    "Country": "Portugal",
+    "Flag Emoji": "🇵🇹",
+    "ISO Code": "PRT",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".pt"
+  },
+  {
+    "Country": "Puerto Rico",
+    "Flag Emoji": "🇵🇷",
+    "ISO Code": "PRI",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".pr"
+  },
+  {
+    "Country": "Qatar",
+    "Flag Emoji": "🇶🇦",
+    "ISO Code": "QAT",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".qa"
+  },
+  {
+    "Country": "Réunion",
+    "Flag Emoji": "🇷🇪",
+    "ISO Code": "REU",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".re"
+  },
+  {
+    "Country": "Romania",
+    "Flag Emoji": "🇷🇴",
+    "ISO Code": "ROU",
+    "Region": "Eastern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".ro"
+  },
+  {
+    "Country": "Russia",
+    "Flag Emoji": "🇷🇺",
+    "ISO Code": "RUS",
+    "Region": "Eastern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".ru"
+  },
+  {
+    "Country": "Rwanda",
+    "Flag Emoji": "🇷🇼",
+    "ISO Code": "RWA",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".rw"
+  },
+  {
+    "Country": "Saint Barthélemy",
+    "Flag Emoji": "🇧🇱",
+    "ISO Code": "BLM",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".gp"
+  },
+  {
+    "Country": "Saint Helena",
+    "Flag Emoji": "🇸🇭",
+    "ISO Code": "SHN",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".sh"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Flag Emoji": "🇰🇳",
+    "ISO Code": "KNA",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".kn"
+  },
+  {
+    "Country": "Saint Lucia",
+    "Flag Emoji": "🇱🇨",
+    "ISO Code": "LCA",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".lc"
+  },
+  {
+    "Country": "Saint Martin (French Part)",
+    "Flag Emoji": "🇲🇫",
+    "ISO Code": "MAF",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".gp"
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Flag Emoji": "🇵🇲",
+    "ISO Code": "SPM",
+    "Region": "Northern America",
+    "Continent": "North America",
+    "ccTLD": ".pm"
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Flag Emoji": "🇻🇨",
+    "ISO Code": "VCT",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".vc"
+  },
+  {
+    "Country": "Samoa",
+    "Flag Emoji": "🇼🇸",
+    "ISO Code": "WSM",
+    "Region": "Polynesia",
+    "Continent": "Oceania",
+    "ccTLD": ".ws"
+  },
+  {
+    "Country": "San Marino",
+    "Flag Emoji": "🇸🇲",
+    "ISO Code": "SMR",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".sm"
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Flag Emoji": "🇸🇹",
+    "ISO Code": "STP",
+    "Region": "Middle Africa",
+    "Continent": "Africa",
+    "ccTLD": ".st"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Flag Emoji": "🇸🇦",
+    "ISO Code": "SAU",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".sa"
+  },
+  {
+    "Country": "Scotland",
+    "Flag Emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "ISO Code": "GB-SCT",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".uk"
+  },
+  {
+    "Country": "Senegal",
+    "Flag Emoji": "🇸🇳",
+    "ISO Code": "SEN",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".sn"
+  },
+  {
+    "Country": "Serbia",
+    "Flag Emoji": "🇷🇸",
+    "ISO Code": "SRB",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".rs"
+  },
+  {
+    "Country": "Seychelles",
+    "Flag Emoji": "🇸🇨",
+    "ISO Code": "SYC",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".sc"
+  },
+  {
+    "Country": "Sierra Leone",
+    "Flag Emoji": "🇸🇱",
+    "ISO Code": "SLE",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".sl"
+  },
+  {
+    "Country": "Singapore",
+    "Flag Emoji": "🇸🇬",
+    "ISO Code": "SGP",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".sg"
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Flag Emoji": "🇸🇽",
+    "ISO Code": "SXM",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".sx"
+  },
+  {
+    "Country": "Slovakia",
+    "Flag Emoji": "🇸🇰",
+    "ISO Code": "SVK",
+    "Region": "Eastern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".sk"
+  },
+  {
+    "Country": "Slovenia",
+    "Flag Emoji": "🇸🇮",
+    "ISO Code": "SVN",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".si"
+  },
+  {
+    "Country": "Solomon Islands",
+    "Flag Emoji": "🇸🇧",
+    "ISO Code": "SLB",
+    "Region": "Melanesia",
+    "Continent": "Oceania",
+    "ccTLD": ".sb"
+  },
+  {
+    "Country": "Somalia",
+    "Flag Emoji": "🇸🇴",
+    "ISO Code": "SOM",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".so"
+  },
+  {
+    "Country": "South Africa",
+    "Flag Emoji": "🇿🇦",
+    "ISO Code": "ZAF",
+    "Region": "Southern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".za"
+  },
+  {
+    "Country": "South Georgia",
+    "Flag Emoji": "🇬🇸",
+    "ISO Code": "SGS",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".gs"
+  },
+  {
+    "Country": "South Sudan",
+    "Flag Emoji": "🇸🇸",
+    "ISO Code": "SSD",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ss"
+  },
+  {
+    "Country": "Spain",
+    "Flag Emoji": "🇪🇸",
+    "ISO Code": "ESP",
+    "Region": "Southern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".es"
+  },
+  {
+    "Country": "Sri Lanka",
+    "Flag Emoji": "🇱🇰",
+    "ISO Code": "LKA",
+    "Region": "Southern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".lk"
+  },
+  {
+    "Country": "Sudan",
+    "Flag Emoji": "🇸🇩",
+    "ISO Code": "SDN",
+    "Region": "Northern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".sd"
+  },
+  {
+    "Country": "Suriname",
+    "Flag Emoji": "🇸🇷",
+    "ISO Code": "SUR",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".sr"
+  },
+  {
+    "Country": "Svalbard and Jan Mayen",
+    "Flag Emoji": "🇸🇯",
+    "ISO Code": "SJM",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".no"
+  },
+  {
+    "Country": "Sweden",
+    "Flag Emoji": "🇸🇪",
+    "ISO Code": "SWE",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".se"
+  },
+  {
+    "Country": "Switzerland",
+    "Flag Emoji": "🇨🇭",
+    "ISO Code": "CHE",
+    "Region": "Western Europe",
+    "Continent": "Europe",
+    "ccTLD": ".ch"
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Flag Emoji": "🇸🇾",
+    "ISO Code": "SYR",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".sy"
+  },
+  {
+    "Country": "Taiwan",
+    "Flag Emoji": "🇹🇼",
+    "ISO Code": "TWN",
+    "Region": "Eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".tw"
+  },
+  {
+    "Country": "Tajikistan",
+    "Flag Emoji": "🇹🇯",
+    "ISO Code": "TJK",
+    "Region": "Central Asia",
+    "Continent": "Asia",
+    "ccTLD": ".tj"
+  },
+  {
+    "Country": "Tanzania",
+    "Flag Emoji": "🇹🇿",
+    "ISO Code": "TZA",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".tz"
+  },
+  {
+    "Country": "Thailand",
+    "Flag Emoji": "🇹🇭",
+    "ISO Code": "THA",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".th"
+  },
+  {
+    "Country": "Timor-Leste",
+    "Flag Emoji": "🇹🇱",
+    "ISO Code": "TLS",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".tl"
+  },
+  {
+    "Country": "Togo",
+    "Flag Emoji": "🇹🇬",
+    "ISO Code": "TGO",
+    "Region": "Western Africa",
+    "Continent": "Africa",
+    "ccTLD": ".tg"
+  },
+  {
+    "Country": "Tokelau",
+    "Flag Emoji": "🇹🇰",
+    "ISO Code": "TKL",
+    "Region": "Polynesia",
+    "Continent": "Oceania",
+    "ccTLD": ".tk"
+  },
+  {
+    "Country": "Tonga",
+    "Flag Emoji": "🇹🇴",
+    "ISO Code": "TON",
+    "Region": "Polynesia",
+    "Continent": "Oceania",
+    "ccTLD": ".to"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Flag Emoji": "🇹🇹",
+    "ISO Code": "TTO",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".tt"
+  },
+  {
+    "Country": "Tunisia",
+    "Flag Emoji": "🇹🇳",
+    "ISO Code": "TUN",
+    "Region": "Northern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".tn"
+  },
+  {
+    "Country": "Turkey",
+    "Flag Emoji": "🇹🇷",
+    "ISO Code": "TUR",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".tr"
+  },
+  {
+    "Country": "Turkmenistan",
+    "Flag Emoji": "🇹🇲",
+    "ISO Code": "TKM",
+    "Region": "Central Asia",
+    "Continent": "Asia",
+    "ccTLD": ".tm"
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Flag Emoji": "🇹🇨",
+    "ISO Code": "TCA",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".tc"
+  },
+  {
+    "Country": "Tuvalu",
+    "Flag Emoji": "🇹🇻",
+    "ISO Code": "TUV",
+    "Region": "Polynesia",
+    "Continent": "Oceania",
+    "ccTLD": ".tv"
+  },
+  {
+    "Country": "U.S. Virgin Islands",
+    "Flag Emoji": "🇻🇮",
+    "ISO Code": "VIR",
+    "Region": "Caribbean",
+    "Continent": "North America",
+    "ccTLD": ".vi"
+  },
+  {
+    "Country": "Uganda",
+    "Flag Emoji": "🇺🇬",
+    "ISO Code": "UGA",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".ug"
+  },
+  {
+    "Country": "Ukraine",
+    "Flag Emoji": "🇺🇦",
+    "ISO Code": "UKR",
+    "Region": "Eastern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".ua"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Flag Emoji": "🇦🇪",
+    "ISO Code": "ARE",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".ae"
+  },
+  {
+    "Country": "United Kingdom",
+    "Flag Emoji": "🇬🇧",
+    "ISO Code": "GBR",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".uk"
+  },
+  {
+    "Country": "United States",
+    "Flag Emoji": "🇺🇸",
+    "ISO Code": "USA",
+    "Region": "Northern America",
+    "Continent": "North America",
+    "ccTLD": ".us"
+  },
+  {
+    "Country": "United States Minor Outlying Islands",
+    "Flag Emoji": "🇺🇲",
+    "ISO Code": "UMI",
+    "Region": "Micronesia",
+    "Continent": "Oceania",
+    "ccTLD": ".us"
+  },
+  {
+    "Country": "Uruguay",
+    "Flag Emoji": "🇺🇾",
+    "ISO Code": "URY",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".uy"
+  },
+  {
+    "Country": "Uzbekistan",
+    "Flag Emoji": "🇺🇿",
+    "ISO Code": "UZB",
+    "Region": "Central Asia",
+    "Continent": "Asia",
+    "ccTLD": ".uz"
+  },
+  {
+    "Country": "Vanuatu",
+    "Flag Emoji": "🇻🇺",
+    "ISO Code": "VUT",
+    "Region": "Melanesia",
+    "Continent": "Oceania",
+    "ccTLD": ".vu"
+  },
+  {
+    "Country": "Venezuela",
+    "Flag Emoji": "🇻🇪",
+    "ISO Code": "VEN",
+    "Region": "South America",
+    "Continent": "South America",
+    "ccTLD": ".ve"
+  },
+  {
+    "Country": "Viet Nam",
+    "Flag Emoji": "🇻🇳",
+    "ISO Code": "VNM",
+    "Region": "South-eastern Asia",
+    "Continent": "Asia",
+    "ccTLD": ".vn"
+  },
+  {
+    "Country": "Wales",
+    "Flag Emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "ISO Code": "GB-WLS",
+    "Region": "Northern Europe",
+    "Continent": "Europe",
+    "ccTLD": ".uk"
+  },
+  {
+    "Country": "Wallis and Futuna Islands",
+    "Flag Emoji": "🇼🇫",
+    "ISO Code": "WLF",
+    "Region": "Polynesia",
+    "Continent": "Oceania",
+    "ccTLD": ".wf"
+  },
+  {
+    "Country": "Western Sahara",
+    "Flag Emoji": "🇪🇭",
+    "ISO Code": "ESH",
+    "Region": "Northern Africa",
+    "Continent": "Africa",
+    "ccTLD": "eh."
+  },
+  {
+    "Country": "Yemen",
+    "Flag Emoji": "🇾🇪",
+    "ISO Code": "YEM",
+    "Region": "Western Asia",
+    "Continent": "Asia",
+    "ccTLD": ".ye"
+  },
+  {
+    "Country": "Zambia",
+    "Flag Emoji": "🇿🇲",
+    "ISO Code": "ZMB",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".zm"
+  },
+  {
+    "Country": "Zimbabwe",
+    "Flag Emoji": "🇿🇼",
+    "ISO Code": "ZWE",
+    "Region": "Eastern Africa",
+    "Continent": "Africa",
+    "ccTLD": ".zw"
+  }
+]
